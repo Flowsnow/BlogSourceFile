@@ -20,6 +20,8 @@ date: 2018-09-22 00:26:10
 
 ![硅谷来信-投资哲学](http://7xpzxw.com1.z0.glb.clouddn.com/image/investment/Investment-philosophy.png)
 
+<!--more-->
+
 # 个人投资感悟
 
 待括苍山旅游回来之后补充
