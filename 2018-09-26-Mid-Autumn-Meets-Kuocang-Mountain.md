@@ -9,7 +9,7 @@ date: 2018-09-26 22:58:31
 ---
 
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_061158.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_061158.jpg)
 
 > 你来，或者不来，我就在这里
 >
@@ -54,13 +54,13 @@ date: 2018-09-26 22:58:31
 
 一路坐车，时而视野开阔，时而雾气弥漫，在云雾中开车，心也都揪成一团了。顿时就想起了之前在越南从芽庄到大叻的路上雾气丛生，可见度不到一米，最后被迫停车的情景。司机师傅是湖北老乡，开车格外的小心，到了接近山顶的阳光山庄时，已经是傍晚5点多了，到处都是雾，还飘着小雨。撑着伞出来看风车，也是第一次这么近距离的看到风车了。整个阳光山庄都是若隐若现的，红墙房子，泥泞地面和三三两两的汽车，一种绝地求生的既视感，然而我只是个绝地求生的快递员。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180922_170632.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180922_170632.jpg)
 
 晚上喝完美味的鸡汤之后，雨慢慢浇灭了点着了的篝火，一堆人一起玩拍七游戏，运气不错的我从来没有输过，当然也就体会不到真心话大冒险的乐趣了。晚上趁着大家玩狼人杀的时间，早早的就睡了，只为了第二天起个大早。
 
 第二天凌晨五点不到就醒了，收拾好准备出发，拍下清晨第一张图片，天还蒙蒙亮，却已经能看到云海了，看来运气不错。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_052102.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_052102.jpg)
 
 半跑半走着就到了山顶，站在曙光碑下，却找不到一个没有障碍物的视角。而且日出被云海挡住了，还看不太清。于是一个人凭着以往的拍摄经验到处跑着找场景找角度。于是找到了小木屋旁边看云海绝好的地点，后又向东边跑，爬上了最东边的山，在崖边等日出跃过云海。
 
@@ -68,69 +68,69 @@ date: 2018-09-26 22:58:31
 
 山顶上的黄牛，每天吮吸最好的空气和雨露，非常悠闲自在，此图由诗雨妹子（杨超越妹妹的姐姐李超越）拍摄
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/mmexport1537885056358.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/mmexport1537885056358.jpg)
 
 ## 日出
 
 米筛浪东边的小山崖边的日出，隐约可见两条直射的光束
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_060342.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_060342.jpg)
 
 我总喜欢拍日出时在这样空旷的天际里寻找一些譬如电线的前景物，从而使得图片不那么空旷，以前在普陀山拍的日出中最满意的一张就是突兀的电线划过花草丛，在海边日出下熠熠生辉。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_063035.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_063035.jpg)
 
 ## 风车
 
 日出透过多彩云海照耀下的风车，风车很暗，但是和背景搭配的很和谐
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_054839.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_054839.jpg)
 
 美女衬托的风车。偷拍小玲姐姐，拍照习惯于拿正手机，人和风车穿过黄金比例线，美感自然不差
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_083600.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_083600.jpg)
 
 大雾笼罩下的风车，日出过后，云层中的水滴向上汽化成了水雾，弥漫了群山
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_085421.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_085421.jpg)
 
 ## 妹子
 
 静站凝思的妹子。偶然从后面的山丘看到了前面山头上伫立着一个妹子，静静的站在那里看着远方，思索着，很久很久，于是我就有机会拍下了这张照片。但总觉得这张图里面过于空旷，人物过于渺小，体现不出凝思的感觉，但若只是想通过这张图片展示括苍山的云海，那是足够了。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_062153.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_062153.jpg)
 
 于是飞奔跑到妹子的身后，蹲着接近于趴着的姿势拍到了本次括苍山之旅最满意的图片。前景是低矮土堆上的一株小松树，中间是悬崖边的方形石凳，远景是很浓很厚的云海，妹子伫立其中，凝视远方，好像妹子此时就是我自己，开始思考人生。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_062517.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_062517.jpg)
 
 本来打算将这张照片转给这个妹子，追上去，走到小木屋旁边，转眼就不见了。
 
 ## 云海
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_054523.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_054523.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_062556.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_062556.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_065728.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_065728.jpg)
 
 也学了一次Instagram上的推荐的拍照方式，拍空旷的环境可以摆上自己的双脚，表示路在脚下，也让整个场景不那么单调。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_071237.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_071237.jpg)
 
 ## 露珠
 
 **清晨的露珠**。跨过围栏，翻到崖边，想透过清晨枝丫上的露珠拍日出，但是脚踩的石头并不稳固，只能在尽可能靠近的地方随意拍摄一张，没有拍到日出的效果，只有一种空旷而杂乱的感觉。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/IMG_20180923_064817.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_064817.jpg)
 
 # 关于摄影
 
 油油拍摄的两张图片让我大开眼界，model是小玲姐，从前只注重图片美感的我突然发现全景拍摄还可以这么玩，非常有趣，但从摄影的角度看这两张照片曝光过久，整个图片缺乏层次感。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/mmexport1537751924335.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/mmexport1537751924335.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/mmexport1537753327464.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/mmexport1537753327464.jpg)
 
 回来之后搜了不少关于全景拍照Panorama的资料。在此稍稍总结一下手机全景拍照的技巧：
 
@@ -146,7 +146,7 @@ date: 2018-09-26 22:58:31
 
 我喜欢走在路上，喜欢在路上遇见未知的美景，喜欢交往不同来历的朋友。无论是在大山深处爬行，还是在山崖边静坐，想要的只是简简单单的对内心的自白，对人生的思考。毕竟生活不止眼前的苟且，还有诗和远方。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/kuocang-mountain/mmexport1537703827202.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/mmexport1537703827202.jpg)
 
 感谢这么可爱的你看完我的记录。
 

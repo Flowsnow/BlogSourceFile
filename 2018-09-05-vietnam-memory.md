@@ -9,7 +9,7 @@ date: 2018-09-05 00:56:06
 ---
 
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180523_192308_017.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180523_192308_017.jpg)
 
 整个旅行时间从5月20号出发到6月6号结束，耗时18天，之后由于换城市换工作等原因一直非常忙碌，直到今天（9月12号）才有时间来回忆这次旅程。时隔数月，差不多很多东西都已经忘记了，而且旅行前也没有做任何攻略，都是走到哪儿看到哪儿。本次游记只凭回忆随心所记，重点在沿途见闻，以及面对未知的无限惊喜，因此就把标题定为越南记忆吧。
 
@@ -99,7 +99,7 @@ date: 2018-09-05 00:56:06
 
 其中顺化不在计划范围之内，至于会安，由于看多了国内古镇，又因为在岘港有一个海鲜大餐等着我，会安就没有去，据说灯笼很美，适合有情怀的人。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/vietnam-tour-map.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/vietnam-tour-map.jpg)
 
 除了这张网上的行程图之外，我自己也用google地图绘制了一张，链接如下（国内可能无法打开）：
 
@@ -111,17 +111,17 @@ date: 2018-09-05 00:56:06
 
 到越南的第一个公路服务区外景：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180521_141712.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180521_141712.jpg)
 
 还剑湖白天和晚上的景色：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180521_171743.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180521_171743.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180521_213144.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180521_213144.jpg)
 
 同行的妹子吃火锅：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180521_204756.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180521_204756.jpg)
 
 第二天一大早跟着一日游的团（马蜂窝可预订，青旅前台也可以预定，不过会稍微贵一点，都有接车服务，接车体验真的很好啊）去了下龙湾，虽然路上时间较长，但是景色不错，主要看的就是海上的山，听去过的人说和桂林那边的很像，因此桂林和下龙湾两个地方去一个就够了。
 
@@ -131,7 +131,7 @@ date: 2018-09-05 00:56:06
 
 河内大教堂：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180523_105526.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180523_105526.jpg)
 
 # 岘港
 
@@ -139,15 +139,15 @@ date: 2018-09-05 00:56:06
 
 美溪海滩：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180524_175130.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180524_175130.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180524_175135.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180524_175135.jpg)
 
 在岘港的第二天，一大早在青旅前台租摩托沿着海边公路一路赶到海云岭、灵姑湾。加油时乱收费，路上等人时头盔掉了，在海云岭山上买了一个，花了50块，血亏。不过好在海云岭和灵姑湾的景色很美。灵姑湾美景：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180525_115358.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180525_115358.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180525_123216.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180525_123216.jpg)
 
 晚上当然还是继续海鲜啦。
 
@@ -157,7 +157,7 @@ date: 2018-09-05 00:56:06
 
 到芽庄的时候还很早，凌晨5点多。打车到青旅。放下行李，坐等四岛游的车来接。整个四岛游的形成中就两个感想：水是真的蓝，导游确实坑。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/eyeemfiltered1527862224544.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/eyeemfiltered1527862224544.jpg)
 
 晚上买了些喝的和池鱼韩枫在hostel门口各种聊，一直到很晚，应该有一点了吧。不同的人真的有不一样的想法。
 
@@ -175,11 +175,11 @@ date: 2018-09-05 00:56:06
 4. 大叻夜市，用作业本包起来的大叻特色的一种饼，路边随处可见
 5. 春香湖，划船
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/eyeemfiltered1527609964995.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/eyeemfiltered1527609964995.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180529_105243.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180529_105243.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/eyeemfiltered1527609846032.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/eyeemfiltered1527609846032.jpg)
 
 # 美奈
 
@@ -187,11 +187,11 @@ date: 2018-09-05 00:56:06
 
 美奈第二天：白沙丘，红沙丘，渔村码头，仙女溪半日游(马蜂窝预定，凌晨4点半吉普车出发，8点结束。因为阴天没有太阳，所以没有做沙丘摩托去白沙丘，而且白沙丘费用25万盾，太贵。渔村码头上并没有什么优质海鲜，基本都是次品，因此并没有买到想吃的食材，随之放弃晚上自己做饭的想法)。8点结束失望的半日游之后，回来补觉，直到晚上才和池鱼，大叔，韩枫四人一起吃MUINE 888这家大众点评网红店的海鲜大餐，人均吃了120。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180601_062510.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180601_062510.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180601_062252.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180601_062252.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180601_065103.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180601_065103.jpg)
 
 # 胡志明
 
@@ -204,9 +204,9 @@ date: 2018-09-05 00:56:06
 
 最后一天的时候在胡志明`vincom center` 购物： Tommy Hilfiger 和 真维斯 ，大把的刷信用卡的感觉真好啊。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180603_125422-EFFECTS.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180603_125422-EFFECTS.jpg)
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180603_120734.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180603_120734.jpg)
 
 # 最后
 
@@ -218,7 +218,7 @@ date: 2018-09-05 00:56:06
 
 一切回忆结束，该回归现实，需归于平淡，日常生活就是
 
-![日常coding图片](http://7xpzxw.com1.z0.glb.clouddn.com/vietnam-2018/IMG_20180713_190116.jpg)
+![日常coding图片](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180713_190116.jpg)
 
 旅游虽好，也要兼顾现实，得攒够了钱再开始下一次
 
