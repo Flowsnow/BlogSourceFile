@@ -165,7 +165,7 @@ SQL> select * from t;
 
 自治事务允许在一个事务中存在独立的事务，它的操作不会对当前事务产生影响。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-%E8%87%AA%E6%B2%BB%E4%BA%8B%E5%8A%A1.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-%E8%87%AA%E6%B2%BB%E4%BA%8B%E5%8A%A1.jpg)
 
 语法：
 

@@ -396,7 +396,7 @@ in_queue(Item, Queue) ->
 
 附录：
 
-- [个人整理的世界地图的各个国家（中英文，简写）](http://7xpzxw.com1.z0.glb.clouddn.com/deliver_site_graph/world_country_code.csv)
-- [个人整理的世界地图的各个国家的粗略相邻关系](http://7xpzxw.com1.z0.glb.clouddn.com/deliver_site_graph/world_country_border.csv)
-- [个人整理的中国地图的各个省份（中英文）](http://7xpzxw.com1.z0.glb.clouddn.com/deliver_site_graph/china_province_code.csv)
-- [个人整理的中国地图的各个省份的相邻关系](http://7xpzxw.com1.z0.glb.clouddn.com/deliver_site_graph/china_province_border.csv)
+- [个人整理的世界地图的各个国家（中英文，简写）](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/deliver_site_graph/world_country_code.csv)
+- [个人整理的世界地图的各个国家的粗略相邻关系](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/deliver_site_graph/world_country_border.csv)
+- [个人整理的中国地图的各个省份（中英文）](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/deliver_site_graph/china_province_code.csv)
+- [个人整理的中国地图的各个省份的相邻关系](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/deliver_site_graph/china_province_border.csv)

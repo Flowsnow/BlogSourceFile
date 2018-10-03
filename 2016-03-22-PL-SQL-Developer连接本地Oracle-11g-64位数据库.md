@@ -24,7 +24,7 @@ PL/SQL developer(含注册机)：[http://pan.baidu.com/s/1kUfY8GB](http://pan.ba
 
 由于我已经设置过了，如下图：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-PLSQL%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-PLSQL%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE.png)
 
 图中路径可能不一样，具体的看你的Oracle Home目录，如果不知道自己的Oracle Home目录的，可以去自己的环境变量中看一下。
 
@@ -34,7 +34,7 @@ PL/SQL developer(含注册机)：[http://pan.baidu.com/s/1kUfY8GB](http://pan.ba
 
 尝试登陆数据库。出现以下错误：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-PLSQL%E9%94%99%E8%AF%AF%E5%8E%9F%E5%9B%A0.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-PLSQL%E9%94%99%E8%AF%AF%E5%8E%9F%E5%9B%A0.png)
 
 显示初始化错误：Make sure you have the 32 bits Oracle Client installed.
 
@@ -88,7 +88,7 @@ tnsnames.ora文件也可以从Oracle数据库HOME目录的NETWORK\ADMIN目录D:\
 
 以非登录模式进入PL/SQL，按照同样的方法设置路径，将Oracle Home路径指定为Oracle Client目录（D:\app\instantclient_11_2），OCI Libaray路径为Oracle Client目录下面的oci.dll (D:\app\instantclient_11_2\oci.dll)。具体配置情况如下：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-PLSQL32%E4%BD%8D%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-PLSQL32%E4%BD%8D%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE.png)
 
 配置完成之后，保存并推出PL/SQL。
 
@@ -96,7 +96,7 @@ tnsnames.ora文件也可以从Oracle数据库HOME目录的NETWORK\ADMIN目录D:\
 
 打开PL/SQL，会发现：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-PLSQL%E6%AD%A3%E5%B8%B8%E7%99%BB%E9%99%86%E7%95%8C%E9%9D%A2.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-PLSQL%E6%AD%A3%E5%B8%B8%E7%99%BB%E9%99%86%E7%95%8C%E9%9D%A2.png)
 
 下方出现了Connect as选项，可以选择Normal，SYSDBA等等。
 
@@ -104,7 +104,7 @@ tnsnames.ora文件也可以从Oracle数据库HOME目录的NETWORK\ADMIN目录D:\
 
 登录进去之后我们可以检查一下能否查询数据：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-PLSQL%E6%9F%A5%E8%AF%A2%E7%95%8C%E9%9D%A2.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-PLSQL%E6%9F%A5%E8%AF%A2%E7%95%8C%E9%9D%A2.png)
 
 查询成功，dual表中确实只有一个记录X。
 

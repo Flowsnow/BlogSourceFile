@@ -11,7 +11,7 @@ date: 2018-05-17 10:06:37
 
 整理面试中遇到的一些常规面试题，在此记录
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/interview-questions-collection.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/interview-questions-collection.png)
 
 <!--more-->
 
@@ -145,15 +145,15 @@ cookie和session都是认证web客户端用户身份的会话方式。他们的�
 
 - CI：持续集成`CONTINUOUS INTEGRATION`： 持续集成强调开发人员提交了新代码之后，立刻进行构建、（单元）测试。根据测试结果，我们可以确定新代码和原有代码能否正确地集成在一起。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/CONTINUOUS-INTEGRATION.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/CONTINUOUS-INTEGRATION.jpg)
 
 - CD：持续交付`CONTINUOUS DELIVERY`：持续交付在持续集成的基础上，将集成后的代码部署到更贴近真实运行环境的「类生产环境」（*production-like environments*）中。比如，我们完成单元测试后，可以把代码部署到连接数据库的 Staging 环境中更多的测试。如果代码没有问题，可以继续手动部署到生产环境中。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/CONTINUOUS-DELIVERY.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/CONTINUOUS-DELIVERY.jpg)
 
 - CD：持续部署`CONTINUOUS DEPLOYMENT`：持续部署则是在持续交付的基础上，把部署到生产环境的过程自动化。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/CONTINUOUS-DEPLOYMENT.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/CONTINUOUS-DEPLOYMENT.jpg)
 
 ### 使用容器部署一个Python项目
 
@@ -403,7 +403,7 @@ Dijkstra(迪杰斯特拉)算法是典型的单源最短路径算法，用于计�
 3. 以`k`为新考虑的中间点，修改`U`中各顶点的距离；若从源点`v`到顶点`u`的距离（经过顶点`k`）比原来距离（不经过顶点`k`）短，则修改顶点`u`的距离值，修改后的距离值的顶点`k`的距离加上边上的权。
 4. 重复步骤2和3直到所有顶点都包含在S中。
 
-![img](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/Dijkstra-Algorithm-Dynamic-Demonstration.gif)
+![img](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/Dijkstra-Algorithm-Dynamic-Demonstration.gif)
 
 ### Floyd算法
 
@@ -549,7 +549,7 @@ Rest全称是 Resource Representational State Transfer（前面的主语Resource
 
 之前的PHP，JSP等。在之前的桌面时代问题不大，但是近年来移动互联网的发展，各种类型的Client层出不穷，RESTful可以通过一套统一的接口为 Web，iOS和Android提供服务。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/RestfulApi.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/RestfulApi.jpg)
 
 参考：[知乎-REST 架构该怎么生动地理解？](https://www.zhihu.com/question/27785028)
 
@@ -576,7 +576,7 @@ nginx最常用的操作是：实现restful api的负载均衡，可以分发到�
 - 用户角色关联表
 - 角色资源权限关联表
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Classic-Interview-Questions/Role-Resource-Permission-Association-Table.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Classic-Interview-Questions/Role-Resource-Permission-Association-Table.png)
 
 
 

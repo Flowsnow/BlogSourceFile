@@ -8,7 +8,7 @@ categories:
 date: 2018-04-11 01:02:24
 ---
 
-![olivia-cooke](http://7xpzxw.com1.z0.glb.clouddn.com/ready_player_one/olivia-cooke.jpg)
+![olivia-cooke](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/ready_player_one/olivia-cooke.jpg)
 
 <!--more-->
 

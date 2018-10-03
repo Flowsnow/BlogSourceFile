@@ -18,7 +18,7 @@ date: 2018-09-22 00:26:10
 
 # 硅谷来信的投资哲学
 
-![硅谷来信-投资哲学](http://7xpzxw.com1.z0.glb.clouddn.com/image/investment/Investment-philosophy.png)
+![硅谷来信-投资哲学](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/investment/Investment-philosophy.png)
 
 <!--more-->
 

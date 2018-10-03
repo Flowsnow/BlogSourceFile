@@ -9,7 +9,7 @@ categories:
   - Oracle数据库
 ---
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-flashback_pic.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-flashback_pic.png)
 
 **参考资料：**[Using Oracle Flashback Technology](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm)
 
@@ -441,7 +441,7 @@ SQL> select blocks from user_segments where segment_name='BIN$kMskKvD5SJqmwaC5WD
 
 **闪回数据库架构Flashback database architecture**
 
-![Flashback database architecture](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-Flashback%20database%20architecture.png)
+![Flashback database architecture](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Flashback%20database%20architecture.png)
 
 开启闪回数据库功能之后，会在SGA中开辟内存Flashback buffer，会记录buffer cache中的部分改变然后后台恢复写入进程RVWR将记录写入闪回日志Flashback logs中。FBDA进程（Flashback Data Archive ）则会将Flashback logs进行归档。
 

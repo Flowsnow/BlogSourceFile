@@ -26,7 +26,7 @@ Web框架的核心部分是路由系统，客户端的请求Request发到wsgi服
 
 下面是客户端发送请求到WSGI服务器经过Web框架处理的整个流程的层次结构和数据流向图。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/Web%E6%A1%86%E6%9E%B6%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/Web%E6%A1%86%E6%9E%B6%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
 
 # Web框架实现
 

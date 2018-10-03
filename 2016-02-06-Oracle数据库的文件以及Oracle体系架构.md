@@ -39,13 +39,13 @@ USER_DUMP_DEST：specifies the pathname for a directory where the server will wr
 
 查看参数文件初始化值可以在oracle的官方文档上去看。在[Basic Initialization Parameters](https://docs.oracle.com/cd/E11882_01/server.112/e40402/initparams002.htm#REFRN00101)就可以查看各项初始化参数了。每个基本参数点进去就有了详细的说明。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-Oracle%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8F%82%E6%95%B0.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Oracle%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8F%82%E6%95%B0.jpg)
 
 <!--more-->
 
 其中SGA_TARGET的初始化参数如下：
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-OracleSGA_TARGET%E5%8F%82%E6%95%B0%E6%96%87%E4%BB%B6.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-OracleSGA_TARGET%E5%8F%82%E6%95%B0%E6%96%87%E4%BB%B6.jpg)
 
 
 
@@ -65,7 +65,7 @@ spfile对应的SPFILEORCL.ORA是二进制文件，用show parameter spfile;可�
 
 使用create pfile from spfile;可以生成INITorcl.ORA文件，这是一个文本格式的文件，里面显示的参数可以直接修改。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-Oracle%E7%9A%84pfile%E7%9A%84%E4%BD%BF%E7%94%A8.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Oracle%E7%9A%84pfile%E7%9A%84%E4%BD%BF%E7%94%A8.jpg)
 
 ### 2、控制文件
 
@@ -149,7 +149,7 @@ Oracle日志文件的状态可参见：[Oracle日志文件的状态current/activ
 
 ### Oracle整体架构图
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/Oracle-Oracle%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Oracle%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
 
 由上图可知，主要分为三个部分：实例instance，数据库database，其他组成部分。上半部分中的Instance就是实例，有内存加进程构成，内存分为SGA（System Global Area）和PGA（Program Global Area）。下方的Database就是数据库，包含数据文件，控制文件，重做日志文件。数据库文件是一种相对静止的东西。
 

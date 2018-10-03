@@ -20,7 +20,7 @@ select userenv('language') from dual;
 
 有关`userenv('parameter')`返回值的官网介绍如下
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/2016-11-29_194757.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/2016-11-29_194757.jpg)
 
 意思就是：返回的是当前会话使用的language和territory。characterset是数据库的字符集。
 
@@ -32,15 +32,15 @@ select userenv('language') from dual;
 
 先看下数据库真实的语言、地区和字符集
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/2016-11-29_205128.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/2016-11-29_205128.jpg)
 
 再看下windows上NLS_LANG环境变量
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/oracle%E5%9C%A8windows%E4%B8%8A%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/oracle%E5%9C%A8windows%E4%B8%8A%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.jpg)
 
 最后看下plsql上userenv执行的结果
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/2016-11-29_205210.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/2016-11-29_205210.jpg)
 
 可以发现在windows上使用plsql的时候语言和地区使用的是plsql的环境变量NLS_LANG。
 
@@ -48,11 +48,11 @@ select userenv('language') from dual;
 
 首先看一下NLS_LANG为空的情况下userenv的返回值
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/2016-11-29_220921.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/2016-11-29_220921.jpg)
 
 可以看到`userenv('language')`的返回值是`AMERICAN_AMERICA.ZHS16GBK`。这个值是怎么来的呢？从Oracle官网上看是取的默认值，如下图
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/2016-11-29_222032.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/2016-11-29_222032.jpg)
 
 - 如果Oracle通用安装程序没有指定NLS_LANG，则默认值是`AMERICAN_AMERICA.US7ASCII`
 - 如果language没有指定，则language的默认值是`AMERICAN`
@@ -64,7 +64,7 @@ select userenv('language') from dual;
 
 下面继续验证
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/oracle/2016-11-29_223909.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/oracle/2016-11-29_223909.jpg)
 
 可以看到指定NLS_LANG之后，`userenv('language')`从会话中取得的语言和地区发生了变化，但是字符集仍然取得的是数据库的字符集。
 

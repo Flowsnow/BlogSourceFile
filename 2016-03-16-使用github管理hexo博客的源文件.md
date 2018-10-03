@@ -14,7 +14,7 @@ categories:
 
 Create a New Repository，用[https://github.com/repositories/new](https://github.com/repositories/new)来创建新仓库，填好名称后Create，之后会出现一些仓库的配置信息。这时候就表示配置好了。不需要用README来初始化仓库。我创建的仓库名称是BlogSourceFile。
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/github%E5%88%9B%E5%BB%BA%E4%BB%93%E5%BA%93.png)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/github%E5%88%9B%E5%BB%BA%E4%BB%93%E5%BA%93.png)
 
 <!--more-->
 

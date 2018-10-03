@@ -16,11 +16,11 @@ date: 2017-08-16 20:17:13
 
 **使用nginx软件负载结构图**
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/python/%E4%BD%BF%E7%94%A8nginx%E8%BD%AF%E4%BB%B6%E8%B4%9F%E8%BD%BD%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/python/%E4%BD%BF%E7%94%A8nginx%E8%BD%AF%E4%BB%B6%E8%B4%9F%E8%BD%BD%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
 
 **使用阿里云硬件负载均衡服务结构图**
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com/image/python/%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E7%A1%AC%E4%BB%B6%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%9C%8D%E5%8A%A1%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/python/%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E7%A1%AC%E4%BB%B6%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%9C%8D%E5%8A%A1%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
 
 因为flask app需要在内存中保存ip树以及国家、省份、城市相关的字典，因此占用内存较高。gunicorn的1个worker需要占用300M内存，nginx的4个worker内存占用较小（不到100M），因此占用1.3G的内存（即需要一个2G内存的服务器）。当gunicorn任意一个节点挂断或者升级时，另外一个节点仍然在使用，不会影响整体服务
 
@@ -530,9 +530,9 @@ end
 
 **使用**
 
-![xmind-jmeter](http://7xpzxw.com1.z0.glb.clouddn.com//image/jmeterjmeter%E4%BD%BF%E7%94%A8%E6%95%B4%E7%90%86xmind.jpg)
+![xmind-jmeter](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/jmeterjmeter%E4%BD%BF%E7%94%A8%E6%95%B4%E7%90%86xmind.jpg)
 
-以上图片来自一个测试大牛，非常详细，完整的xmind文件下载见：[jmeter-张蓓.xmind](http://7xpzxw.com1.z0.glb.clouddn.com//file/xmind/jmeter/jmeter.xmind)
+以上图片来自一个测试大牛，非常详细，完整的xmind文件下载见：[jmeter-张蓓.xmind](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/file/xmind/jmeter/jmeter.xmind)
 
 jmeter的入门级使用也可以参考最后面的参考资料部分：**使用Apache Jmeter进行并发压力测试**
 
@@ -620,7 +620,7 @@ Percentage of the requests served within a certain time (ms)
 
 **jmeter GET请求压测结果**
 
-![](http://7xpzxw.com1.z0.glb.clouddn.com//image/jmeter/ip_query_jmeter.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/jmeter/ip_query_jmeter.jpg)
 
 
 

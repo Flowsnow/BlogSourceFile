@@ -162,16 +162,16 @@ rtmp握手过程中确实存在对S2和C1进行匹配验证的操作，但是这
 
 以微赞和网宿为例
 
-- [obs推流网宿握手成功的包点此下载](http://7xpzxw.com1.z0.glb.clouddn.com/rtmp_deliver/file/obs-netcenter-handshake-success.pcapng)
-- [obs推流微赞握手成功的包点此下载](http://7xpzxw.com1.z0.glb.clouddn.com/rtmp_deliver/file/obs-vzan-handshake-success.pcapng)
+- [obs推流网宿握手成功的包点此下载](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/rtmp_deliver/file/obs-netcenter-handshake-success.pcapng)
+- [obs推流微赞握手成功的包点此下载](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/rtmp_deliver/file/obs-vzan-handshake-success.pcapng)
 
 网宿推流没有走加密流程，S2和C1匹配，具体数据包截图如下：
 
-![obs-netcenter-handshake-success.jpg](http://7xpzxw.com1.z0.glb.clouddn.com/rtmp_deliver/image/obs-netcenter-handshake-success.jpg)
+![obs-netcenter-handshake-success.jpg](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/rtmp_deliver/image/obs-netcenter-handshake-success.jpg)
 
 微赞推流走加密流程，S2和C1不匹配，具体数据包截图如下：
 
-![obs-vzan-handshake-success.jpg](http://7xpzxw.com1.z0.glb.clouddn.com/rtmp_deliver/image/obs-vzan-handshake-success.jpg)
+![obs-vzan-handshake-success.jpg](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/rtmp_deliver/image/obs-vzan-handshake-success.jpg)
 
 到此，整个rtmp推流握手过程就比较清楚了。
 
@@ -206,7 +206,7 @@ create_c2(<<_C0:1/binary, C1:16#600/binary>>, <<S0:1/binary, S1:16#600/binary, _
 
 至此，转推流成功，示例图如下：
 
-![rtmp_deliver_success.jpg](http://7xpzxw.com1.z0.glb.clouddn.com/rtmp_deliver/image/rtmp_deliver_success.jpg)
+![rtmp_deliver_success.jpg](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/rtmp_deliver/image/rtmp_deliver_success.jpg)
 
 # 结论
 

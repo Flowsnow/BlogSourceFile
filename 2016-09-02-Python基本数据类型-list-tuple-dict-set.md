@@ -152,9 +152,9 @@ print num
 
 以下是列表相关函数的分类
 
-![列表分类](http://7xpzxw.com1.z0.glb.clouddn.com/image/python/xmind/%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.png)
+![列表分类](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/python/xmind/%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.png)
 
-xmind文件可点[这里](http://7xpzxw.com1.z0.glb.clouddn.com//file/xmind/%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.xmind)下载
+xmind文件可点[这里](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/file/xmind/%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.xmind)下载
 
 以下是`help(list)`的结果中关于重点函数的介绍部分
 
@@ -300,9 +300,9 @@ __main__.Point
 
 字典相关的所有内容如下
 
-![字典小结](http://7xpzxw.com1.z0.glb.clouddn.com/image/python/xmind/%E5%AD%97%E5%85%B8%E5%8F%8A%E5%85%B6%E6%93%8D%E4%BD%9C.png)
+![字典小结](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/python/xmind/%E5%AD%97%E5%85%B8%E5%8F%8A%E5%85%B6%E6%93%8D%E4%BD%9C.png)
 
-xmind文件可点[这里](http://7xpzxw.com1.z0.glb.clouddn.com//file/xmind/%E5%AD%97%E5%85%B8%E5%8F%8A%E5%85%B6%E6%93%8D%E4%BD%9C.xmind)下载
+xmind文件可点[这里](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/file/xmind/%E5%AD%97%E5%85%B8%E5%8F%8A%E5%85%B6%E6%93%8D%E4%BD%9C.xmind)下载
 
 ```python
 help(dict)
@@ -640,9 +640,9 @@ In [39]: for k, v in d.items():
 
 集合相关的所有内容如下
 
-![集合小结](http://7xpzxw.com1.z0.glb.clouddn.com/image/python/xmind/%E9%9B%86%E5%90%88%E5%92%8C%E9%9B%86%E5%90%88%E6%93%8D%E4%BD%9C.png)
+![集合小结](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/python/xmind/%E9%9B%86%E5%90%88%E5%92%8C%E9%9B%86%E5%90%88%E6%93%8D%E4%BD%9C.png)
 
-xmind文件可点[这里](http://7xpzxw.com1.z0.glb.clouddn.com//file/xmind/%E9%9B%86%E5%90%88%E5%92%8C%E9%9B%86%E5%90%88%E6%93%8D%E4%BD%9C.xmind)下载
+xmind文件可点[这里](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/file/xmind/%E9%9B%86%E5%90%88%E5%92%8C%E9%9B%86%E5%90%88%E6%93%8D%E4%BD%9C.xmind)下载
 
 ```python
 >>> help(set)
