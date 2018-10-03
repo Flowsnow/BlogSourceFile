@@ -548,8 +548,6 @@ yarn application -list
 http://120.77.239.67:18088/cluster
 ```
 
-![yarn-web-ui](https://linode.com/docs/assets/hadoop/hadoop-4-yarn-webui-wide.png)
-
 ## 提交MapReduce作业至YARN
 
 YARN作业被打包成jar文件，并提交给YARN用命令`yarn jar`执行。
