@@ -16,11 +16,11 @@ Apache Sqoop是一种用于在Apache Hadoop和结构化数据存储（如关系�
 
 根据官网介绍，当前（文档编写时间：2018-05-07）最新的稳定版本是1.4.7。 Sqoop2的最新版本是1.99.7（下载，文档）。 请注意，1.99.7与1.4.7不兼容，且未完成功能，具体信息可以参见Apache Sqoop官网。因此不适用于生产部署。所以我们选择1.4.7版本。
 
-- 1.4.7版本下载地址：http://www.apache.org/dyn/closer.lua/sqoop/1.4.7
+- 1.4.7版本下载地址：https://www.apache.org/dyn/closer.lua/sqoop/1.4.7
 
 > 可以选择华中科技大学的镜像站进行下载：http://mirrors.hust.edu.cn/apache/sqoop/1.4.7
 
-- 1.4.7版本文档地址：http://sqoop.apache.org/docs/1.4.7/index.html
+- 1.4.7版本文档地址：https://sqoop.apache.org/docs/1.4.7/index.html
 
 <!--more-->
 
@@ -327,13 +327,13 @@ sqoop export --connect jdbc:mysql://138.68.1.61:3306/wordpress --username root -
 
 参考：
 
-- http://sqoop.apache.org/
+- https://sqoop.apache.org/
 - https://sqoop.apache.org/docs/1.4.6/SqoopUserGuide.html
 - https://www.jianshu.com/p/19ff7effcaf2
-- http://www.cnblogs.com/zhangs1986/p/7063592.html
+- https://www.cnblogs.com/zhangs1986/p/7063592.html
 - https://acadgild.com/blog/exporting-files-hdfs-mysql-using-sqoop/
 - https://my.oschina.net/sniperLi/blog/687942
-- http://www.cnblogs.com/zhangs1986/p/7052621.html
+- https://www.cnblogs.com/zhangs1986/p/7052621.html
 - http://blog.51cto.com/xpleaf/2090584
 - https://www.alibabacloud.com/help/zh/doc-detail/28133.htm
 - https://yq.aliyun.com/articles/43799

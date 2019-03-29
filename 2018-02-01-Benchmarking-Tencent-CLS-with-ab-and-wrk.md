@@ -68,7 +68,7 @@ ab -c 50 -t 60 -n 300000 -k -T 'application/x-protobuf' -p /tmp/post_data.txt -H
 ```
 This is ApacheBench, Version 2.3 <$Revision: 1796539 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
-Licensed to The Apache Software Foundation, http://www.apache.org/
+Licensed to The Apache Software Foundation, https://www.apache.org/
 
 Benchmarking ap-shanghai.cls.myqcloud.com (be patient)
 Completed 30000 requests
@@ -134,7 +134,7 @@ Percentage of the requests served within a certain time (ms)
 ```
 This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
-Licensed to The Apache Software Foundation, http://www.apache.org/
+Licensed to The Apache Software Foundation, https://www.apache.org/
 
 Benchmarking ap-shanghai.cls.myqcloud.com (be patient)
 

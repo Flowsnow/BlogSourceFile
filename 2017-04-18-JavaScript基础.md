@@ -246,5 +246,5 @@ console.log(Title, TransTitle)  // 输出Scratchpad JavaScript-Umgebung
 参考资料
 
 1. [MDN-JavaScript指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
-2. [W3S-JavaScript 教程](http://www.w3school.com.cn/js/index.asp)
+2. [W3S-JavaScript 教程](https://www.w3school.com.cn/js/index.asp)
 3. [MDN-解构赋值](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)

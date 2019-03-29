@@ -78,11 +78,11 @@ cookie和session都是认证web客户端用户身份的会话方式。他们的�
 
 所谓三次握手，是指建立一个TCP连接时，需要客户端和服务器总共发送3个包。
 
-![img](http://www.centos.bz/wp-content/uploads/2012/08/100327002629.png?_=3690998)
+![img](https://www.centos.bz/wp-content/uploads/2012/08/100327002629.png?_=3690998)
 
 所谓四次挥手，是指TCP的连接的拆除需要发送四个包，因此称为四次挥手(four-way handshake)。
 
-![img](http://www.centos.bz/wp-content/uploads/2012/08/100327022731.jpg?_=3690998)
+![img](https://www.centos.bz/wp-content/uploads/2012/08/100327022731.jpg?_=3690998)
 
 需要弄明白为什么需要3次握手和四次挥手，具体的解释参见：
 
@@ -381,7 +381,7 @@ def binary_search(lst, low, high, key):
 ### `A*`算法
 
 - `https://zh.wikipedia.org/wiki/A*%E6%90%9C%E5%AF%BB%E7%AE%97%E6%B3%95`
-- `http://www.cnblogs.com/yanlingyin/archive/2012/01/15/2322640.html`
+- `https://www.cnblogs.com/yanlingyin/archive/2012/01/15/2322640.html`
 
 
 
@@ -525,7 +525,7 @@ def fib(n):
 
 矩阵求解的方法忽略。
 
-参考：http://www.cnblogs.com/xudong-bupt/archive/2013/03/19/2966954.html
+参考：https://www.cnblogs.com/xudong-bupt/archive/2013/03/19/2966954.html
 
 ### 微博短链接设计
 

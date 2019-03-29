@@ -11,7 +11,7 @@ categories:
 
 强烈建议再搭建hadoop集群之前体验一下单机模式和伪分布式模式的搭建过程，可以参考以下链接：
 
-- http://flowsnow.net/2018/04/16/Hadoop3-basic-installation-and-configuration/
+- https://suncle.me/2018/04/16/Hadoop3-basic-installation-and-configuration/
 
 # 开始之前
 
@@ -556,8 +556,8 @@ YARN作业被打包成jar文件，并提交给YARN用命令`yarn jar`执行。
 
 参考：
 
-- http://flowsnow.net/2018/04/16/Hadoop3-basic-installation-and-configuration/
-- http://www.cnblogs.com/guoyuanwei/p/8583380.html
+- https://suncle.me/2018/04/16/Hadoop3-basic-installation-and-configuration/
+- https://www.cnblogs.com/guoyuanwei/p/8583380.html
 - https://linode.com/docs/databases/hadoop/how-to-install-and-set-up-hadoop-cluster
 - http://www.dajiangtai.com/community/18389.do
 - https://www.2cto.com/net/201610/557536.html

@@ -80,4 +80,4 @@ Generating an SSH key:
 
 **附：**
 
-参考：[http://blog.csdn.net/binyao02123202/article/details/20130891](http://blog.csdn.net/binyao02123202/article/details/20130891)
+参考：[https://blog.csdn.net/binyao02123202/article/details/20130891](https://blog.csdn.net/binyao02123202/article/details/20130891)

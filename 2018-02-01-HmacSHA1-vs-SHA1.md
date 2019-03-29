@@ -112,5 +112,5 @@ b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8
 参考：
 
 1. [HMAC vs. raw SHA-1](http://dev.ionous.net/2009/03/hmac-vs-raw-sha-1.html)
-2. [极客学院-hmac](http://wiki.jikexueyuan.com/project/explore-python/Standard-Modules/hmac.html)
-3. [极客学院-hashlib](http://wiki.jikexueyuan.com/project/explore-python/Standard-Modules/hashlib.html)
+2. [极客学院-hmac](https://wiki.jikexueyuan.com/project/explore-python/Standard-Modules/hmac.html)
+3. [极客学院-hashlib](https://wiki.jikexueyuan.com/project/explore-python/Standard-Modules/hashlib.html)

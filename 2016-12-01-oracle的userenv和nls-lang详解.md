@@ -78,5 +78,5 @@ select userenv('language') from dual;
 
 ---
 
-[1]: http://docs.oracle.com/cd/E11882_01/server.112/e10729/ch3globenv.htm#NLSPG189
+[1]: https://docs.oracle.com/cd/E11882_01/server.112/e10729/ch3globenv.htm#NLSPG189
 [2]: http://blog.itpub.net/519536/viewspace-626952/

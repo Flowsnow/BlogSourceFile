@@ -204,6 +204,6 @@ Linux的文件类型有以下几种:
 
 **参考：**
 
-- [Python实例浅谈之九使用本地socket文件](http://blog.csdn.net/taiyang1987912/article/details/46774319)
-- [Linux下的IPC－UNIX Domain Socket](http://blog.csdn.net/guxch/article/details/7041052)
+- [Python实例浅谈之九使用本地socket文件](https://blog.csdn.net/taiyang1987912/article/details/46774319)
+- [Linux下的IPC－UNIX Domain Socket](https://blog.csdn.net/guxch/article/details/7041052)
 - [pymotw3 unix domain socket](https://pymotw.com/3/socket/uds.html)

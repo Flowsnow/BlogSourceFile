@@ -63,7 +63,7 @@ ffmpeg -re -i ~/Documents/Taylor\ Swift\ -\ You\ Belong\ With\ Me.mp4 -c copy -f
 
 ## RTMP
 
-Rtmp规范1.0：http://flowsnow.net/2018/03/09/rtmp%E8%A7%84%E8%8C%831-0/
+Rtmp规范1.0：https://suncle.me/2018/03/09/rtmp%E8%A7%84%E8%8C%831-0/
 
 Rtmp规范1.0 en：http://wwwimages.adobe.com/www.adobe.com/content/dam/acom/en/devnet/rtmp/pdf/rtmp_specification_1.0.pdf
 

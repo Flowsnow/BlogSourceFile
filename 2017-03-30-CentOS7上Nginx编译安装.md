@@ -72,7 +72,7 @@ Nginx 一般有两个版本，分别是稳定版和开发版，您可以根据�
 
 ```shell
 cd /usr/local/src
-wget http://nginx.org/download/nginx-1.10.2.tar.gz
+wget https://nginx.org/download/nginx-1.10.2.tar.gz
 tar -zxvf nginx-1.10.2.tar.gz
 cd nginx-1.10.2
 

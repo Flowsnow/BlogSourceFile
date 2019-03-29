@@ -11,7 +11,7 @@ categories:
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-flashback_pic.png)
 
-**参考资料：**[Using Oracle Flashback Technology](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm)
+**参考资料：**[Using Oracle Flashback Technology](https://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm)
 
 Oracle 11g的新特性闪回操作
 
@@ -33,7 +33,7 @@ Oracle 11g的新特性闪回操作
 
 **参考资料：**
 
-[Configuring Your Database for Oracle Flashback Technology](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#ADFNS01002)
+[Configuring Your Database for Oracle Flashback Technology](https://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#ADFNS01002)
 
 [打开或关闭oracle数据库的闪回功能步骤 ](http://blog.itpub.net/26194851/viewspace-763582/)
 
@@ -62,7 +62,7 @@ SQL> alter database open;
 
 ## 闪回查询
 
-**参考资料：**[Using Oracle Flashback Query (SELECT AS OF)](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#i1008579)
+**参考资料：**[Using Oracle Flashback Query (SELECT AS OF)](https://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#i1008579)
 
 查询某一个历史时间点的数据。
 
@@ -170,9 +170,9 @@ CURRENT_SCN
 
 **参考资料：**
 
-[Using Oracle Flashback Version Query](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#i1019938)
+[Using Oracle Flashback Version Query](https://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#i1019938)
 
-[闪回版本查询与闪回事务查询](http://blog.csdn.net/laoshangxyc/article/details/12405459)
+[闪回版本查询与闪回事务查询](https://blog.csdn.net/laoshangxyc/article/details/12405459)
 
 ## 闪回事务查询
 
@@ -184,9 +184,9 @@ CURRENT_SCN
 
 **参考资料：**
 
-[Using Oracle Flashback Transaction Query](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#i1007455)
+[Using Oracle Flashback Transaction Query](https://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#i1007455)
 
-[闪回版本查询与闪回事务查询](http://blog.csdn.net/laoshangxyc/article/details/12405459)
+[闪回版本查询与闪回事务查询](https://blog.csdn.net/laoshangxyc/article/details/12405459)
 
 
 ## 闪回表
@@ -268,7 +268,7 @@ ORA-08185: 用户 SYS 不支持闪回
 
 ## 闪回删除
 
-参考资料：[Oracle闪回功能详解](http://blog.csdn.net/heng_ji/article/details/17968279)
+参考资料：[Oracle闪回功能详解](https://blog.csdn.net/heng_ji/article/details/17968279)
 
 由于闪回技术不支持sys用户，所以使用普通用户测试。
 
@@ -415,9 +415,9 @@ SQL> select blocks from user_segments where segment_name='BIN$kMskKvD5SJqmwaC5WD
 
 **参考资料：**
 
-[Using Flashback Data Archive (Oracle Total Recall)](http://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#BJFFDCEH)
+[Using Flashback Data Archive (Oracle Total Recall)](https://docs.oracle.com/cd/E11882_01/appdev.112/e41502/adfns_flashback.htm#BJFFDCEH)
 
-[Oracle 11g 闪回数据归档](http://blog.csdn.net/summerycool/article/details/5925266)
+[Oracle 11g 闪回数据归档](https://blog.csdn.net/summerycool/article/details/5925266)
 
 闪回归档：Flashback Data Archive。**Oracle Total Recall**，**也即Oracle全面回忆功能。**
 
@@ -427,7 +427,7 @@ SQL> select blocks from user_segments where segment_name='BIN$kMskKvD5SJqmwaC5WD
 
 ## 闪回数据库
 
-参考资料：[Oracle DB闪回（Flashback database）开启笔记](http://www.linuxidc.com/Linux/2014-09/107257.htm)
+参考资料：[Oracle DB闪回（Flashback database）开启笔记](https://www.linuxidc.com/Linux/2014-09/107257.htm)
 
 数据库的闪回
 

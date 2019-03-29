@@ -339,7 +339,7 @@ Google Protocol Buffer 可以很好地支持嵌套 Message 和引入 Message，�
 3. http://hzy3774.iteye.com/blog/2323428
 4. https://github.com/google/protobuf/tree/master/python
 5. https://github.com/google/protobuf/tree/master/examples
-6. http://blog.csdn.net/losophy/article/details/17006573
+6. https://blog.csdn.net/losophy/article/details/17006573
 7. https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/
 8. https://github.com/google/protobuf
 9. https://github.com/google/protobuf/releases/download/v3.5.1/protobuf-all-3.5.1.tar.gz

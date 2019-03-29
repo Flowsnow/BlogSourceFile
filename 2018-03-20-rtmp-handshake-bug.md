@@ -63,7 +63,7 @@ rtmp握手过程中C1数据包匹配`<<_:32, 0:32, _/binary>>`格式后和S2数�
 
 此处重点关注rtmp握手过程中的C1和S2数据包。
 
-先看官方文档中的握手过程，中文翻译版本可以参见：[rtmp规范1.0](http://flowsnow.net/2018/03/09/rtmp%E8%A7%84%E8%8C%831-0/)。 官方文档中对于是否要保证C1和S2完全一致，并没有明确说法。因此可以先参见obs studio依赖的**`librtmp`**库，看握手过程是如何处理的。obs studio依赖的**`librtmp`**的代码如下连接：
+先看官方文档中的握手过程，中文翻译版本可以参见：[rtmp规范1.0](https://suncle.me/2018/03/09/rtmp%E8%A7%84%E8%8C%831-0/)。 官方文档中对于是否要保证C1和S2完全一致，并没有明确说法。因此可以先参见obs studio依赖的**`librtmp`**库，看握手过程是如何处理的。obs studio依赖的**`librtmp`**的代码如下连接：
 
 1. https://github.com/obsproject/obs-studio/blob/master/plugins/obs-outputs/librtmp/rtmp.c
 2. https://github.com/obsproject/obs-studio/blob/master/plugins/obs-outputs/librtmp/handshake.h
@@ -218,7 +218,7 @@ create_c2(<<_C0:1/binary, C1:16#600/binary>>, <<S0:1/binary, S1:16#600/binary, _
 
 - obs-studio: https://github.com/obsproject/obs-studio
 - obs studio握手：https://github.com/obsproject/obs-studio/blob/master/plugins/obs-outputs/librtmp/handshake.h
-- RTMPdump（libRTMP）握手源代码：http://blog.csdn.net/leixiaohua1020/article/details/12954329
-- rtmp协议过程分析：http://www.cnblogs.com/lidabo/p/7355262.html
+- RTMPdump（libRTMP）握手源代码：https://blog.csdn.net/leixiaohua1020/article/details/12954329
+- rtmp协议过程分析：https://www.cnblogs.com/lidabo/p/7355262.html
 - librtmp使用示例： https://github.com/leixiaohua1020/simplest_librtmp_example
-- rtmplib rtmp协议过程分析：http://www.cnblogs.com/lidabo/p/7355262.html
+- rtmplib rtmp协议过程分析：https://www.cnblogs.com/lidabo/p/7355262.html

@@ -10,9 +10,9 @@ categories:
 ---
 参考资料：
 
-<a href="http://docs.oracle.com/cd/E11882_01/server.112/e40540/transact.htmhttp://docs.oracle.com/cd/E11882_01/server.112/e40540/transact.htm" rel="nofollow">Transactions</a>
+<a href="https://docs.oracle.com/cd/E11882_01/server.112/e40540/transact.htmhttps://docs.oracle.com/cd/E11882_01/server.112/e40540/transact.htm" rel="nofollow">Transactions</a>
 
-[关于Oracle事务的总结](http://blog.csdn.net/junmail/article/details/5556561)
+[关于Oracle事务的总结](https://blog.csdn.net/junmail/article/details/5556561)
 
 ---
 
@@ -173,7 +173,7 @@ SQL> select * from t;
 pragma autonomous_transaction
 ```
 
-关于自治事务的使用可以参考：[**ORACLE中的自治事务**](http://blog.csdn.net/fenglibing/article/details/4059924)
+关于自治事务的使用可以参考：[**ORACLE中的自治事务**](https://blog.csdn.net/fenglibing/article/details/4059924)
 
 实验演示如下：(演示用例来自参考资料Oracle中的自治事务)
 
@@ -339,4 +339,4 @@ Oracle选取Commit Point Strength（相当于权重）最大的数据库作为Co
 
 - 理论上是不可能保证分布式事务的一致性。
 
-关于CAP理论可以参见：[CAP理论](http://blog.csdn.net/chen77716/article/details/30635543)
+关于CAP理论可以参见：[CAP理论](https://blog.csdn.net/chen77716/article/details/30635543)

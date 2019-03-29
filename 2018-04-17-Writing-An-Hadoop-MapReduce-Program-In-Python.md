@@ -22,7 +22,7 @@ date: 2018-04-17 15:54:21
 
 # MapReduce的Python代码
 
-我们将使用[Hadoop流API](http://hadoop.apache.org/docs/r1.2.1/streaming.html#Hadoop+Streaming)通过STDIN和STDOUT在Map和Reduce代码间传递数据。我们只需要使用Python的sys.stdin读取输入数据和打印输出到sys.stdout。这就是我们需要做的，因为Hadoop流会处理好其他的一切。
+我们将使用[Hadoop流API](https://hadoop.apache.org/docs/r1.2.1/streaming.html#Hadoop+Streaming)通过STDIN和STDOUT在Map和Reduce代码间传递数据。我们只需要使用Python的sys.stdin读取输入数据和打印输出到sys.stdout。这就是我们需要做的，因为Hadoop流会处理好其他的一切。
 
 ## mapper.py
 
@@ -175,15 +175,15 @@ As I said above, we leverage the Hadoop Streaming API for helping us passing dat
 
 对于这个示例，我们将使用的三个文本来自Gutenberg项目：
 
-1. [The Outline of Science, Vol. 1 (of 4) by J. Arthur Thomson](http://www.gutenberg.org/etext/20417)
-2. [The Notebooks of Leonardo Da Vinci](http://www.gutenberg.org/etext/5000)
-3. [Ulysses by James Joyce](http://www.gutenberg.org/etext/4300)
+1. [The Outline of Science, Vol. 1 (of 4) by J. Arthur Thomson](https://www.gutenberg.org/etext/20417)
+2. [The Notebooks of Leonardo Da Vinci](https://www.gutenberg.org/etext/5000)
+3. [Ulysses by James Joyce](https://www.gutenberg.org/etext/4300)
 
 下载对应链接下的`Plain Text UTF-8`，三个文本对应的地址分别为：
 
-1. http://www.gutenberg.org/cache/epub/20417/pg20417.txt
-2. http://www.gutenberg.org/files/5000/5000-8.txt
-3. http://www.gutenberg.org/files/4300/4300-0.txt
+1. https://www.gutenberg.org/cache/epub/20417/pg20417.txt
+2. https://www.gutenberg.org/files/5000/5000-8.txt
+3. https://www.gutenberg.org/files/4300/4300-0.txt
 
 下载每个文件为纯文本文件，以UTF-8编译并且将这些文件存储在一个临时目录中，如/tmp/gutenberg。
 
@@ -349,7 +349,7 @@ if __name__ == '__main__':
 
 - https://emunix.emich.edu/~sverdlik/COSC472/WritingAnHadoopMapReduceProgramInPython-MichaelG.Noll.html
 - https://python.freelycode.com/contribution/detail/307
-- http://hadoop.apache.org/docs/r1.2.1/streaming.html#Hadoop+Streaming
+- https://hadoop.apache.org/docs/r1.2.1/streaming.html#Hadoop+Streaming
 - https://wiki.apache.org/hadoop/HadoopStreaming
 - https://blog.csdn.net/dongtingzhizi/article/details/12068205
 - https://www.cnblogs.com/dreamer-fish/p/5522687.html

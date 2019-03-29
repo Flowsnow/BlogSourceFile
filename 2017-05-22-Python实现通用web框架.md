@@ -38,11 +38,11 @@ Web框架的核心部分是路由系统，客户端的请求Request发到wsgi服
 
 参考
 
-- [Python-WSGI接口](http://flowsnow.net/2017/04/07/Python-WSGI%E6%8E%A5%E5%8F%A3/)
+- [Python-WSGI接口](https://suncle.me/2017/04/07/Python-WSGI%E6%8E%A5%E5%8F%A3/)
 
 
 - [comyn-web](https://coding.net/u/comyn/p/web/git)
 
 
 - [How to write a web framework in Python](http://anandology.com/blog/how-to-write-a-web-framework-in-python/)
-- [用Python写一个简单的Web框架](http://www.cnblogs.com/russellluo/p/3338616.html)
+- [用Python写一个简单的Web框架](https://www.cnblogs.com/russellluo/p/3338616.html)

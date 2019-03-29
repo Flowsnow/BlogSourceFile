@@ -227,8 +227,8 @@ start_child动态添加子进程和start_link添加的监控树的区别在于�
 参考：
 
 1. [OTP Design Principles: Gen_Server Behaviour](http://erlang.group.iteye.com/group/wiki/1451-otp-design-principles-gen_server-behaviour)
-2. [Erlang-Supervisor Behaviour](http://erlang.org/doc/design_principles/sup_princ.html)
+2. [Erlang-Supervisor Behaviour](https://www.erlang.org/doc/design_principles/sup_princ.html)
 3. [OTP Design Principles: Supervisor Behaviour](http://erlang.group.iteye.com/group/wiki/1454-otp-design-principles-supervisor-behaviour)
-4. [erlang supervisor(监控树)的重启策略](http://www.cnblogs.com/rond/p/6234765.html)
+4. [erlang supervisor(监控树)的重启策略](https://www.cnblogs.com/rond/p/6234765.html)
 5. [OTP设计原则——第三部分](http://www.0x01f.com/post/OTP_Design_Principle_3/)
 

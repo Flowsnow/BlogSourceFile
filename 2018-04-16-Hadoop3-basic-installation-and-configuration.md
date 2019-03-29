@@ -48,7 +48,7 @@ chmod 0600 ~/.ssh/authorized_keys
 
 # Java安装配置
 
-下载地址：`http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html`
+下载地址：`https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html`
 
 执行以下命令解压
 
@@ -86,7 +86,7 @@ java -version
 
 # Hadoop安装配置
 
-下载地址：`http://hadoop.apache.org/releases.html`
+下载地址：`https://hadoop.apache.org/releases.html`
 
 Hadoop的运行有三种形式：
 

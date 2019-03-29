@@ -564,7 +564,7 @@ Transfer/sec:    869.53KB
 root@ubuntu:/tmp# ab -r -t 60 -c 5000 http://127.0.0.1:8080/api/ip_query?ip=165.118.213.9
 This is ApacheBench, Version 2.3 <$Revision: 1796539 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
-Licensed to The Apache Software Foundation, http://www.apache.org/
+Licensed to The Apache Software Foundation, https://www.apache.org/
 
 Benchmarking 127.0.0.1 (be patient)
 Completed 5000 requests
@@ -692,7 +692,7 @@ gunicorn -w10 -b0.0.0.0:8080 ip_query_app:ip_app --worker-class gevent
 - [全球 IPv4 地址归属地数据库(IPIP.NET 版)](https://www.ipip.net/download.html)
 - [使用flask开发RESTful架构的api服务器端(5)–部署flask应用到nginx](http://python.jobbole.com/85008/)
 - [python web 部署：nginx + gunicorn + supervisor + flask 部署笔记](http://www.jianshu.com/p/be9dd421fb8d)
-- [flowsnow-nginx编译安装](http://flowsnow.net/2017/03/30/CentOS7%E4%B8%8ANginx%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/)
+- [flowsnow-nginx编译安装](https://suncle.me/2017/03/30/CentOS7%E4%B8%8ANginx%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/)
 - [supervisor推荐教程-使用 supervisor 管理进程](http://liyangliang.me/posts/2015/06/using-supervisor/)
 - [维基-二叉查找树](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9)
 - [简书-wrk压力测试post接口](http://www.jianshu.com/p/cf0853226dc6)

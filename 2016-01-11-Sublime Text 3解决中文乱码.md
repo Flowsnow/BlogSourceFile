@@ -43,6 +43,6 @@ import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed
 
 参考：
 
-[http://www.cnblogs.com/luoshupeng/archive/2013/09/09/3310777.html](http://www.cnblogs.com/luoshupeng/archive/2013/09/09/3310777.html)
+[https://www.cnblogs.com/luoshupeng/archive/2013/09/09/3310777.html](https://www.cnblogs.com/luoshupeng/archive/2013/09/09/3310777.html)
 
-[http://www.cnblogs.com/joeblackzqq/p/4485067.html](http://www.cnblogs.com/joeblackzqq/p/4485067.html)
+[https://www.cnblogs.com/joeblackzqq/p/4485067.html](https://www.cnblogs.com/joeblackzqq/p/4485067.html)

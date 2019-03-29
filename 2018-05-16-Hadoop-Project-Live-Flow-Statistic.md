@@ -234,8 +234,8 @@ packageJobJar: [flow_statistic_mapper.py, flow_statistic_reducer.py, /tmp/hadoop
 
 参考：
 
-- [用python + hadoop streaming 编写分布式程序（三） -- 自定义功能](http://www.cnblogs.com/joyeecheung/p/3841952.html)
-- [用python + hadoop streaming 编写分布式程序（一） -- 原理介绍，样例程序与本地调试](http://www.cnblogs.com/joyeecheung/p/3757915.html)
+- [用python + hadoop streaming 编写分布式程序（三） -- 自定义功能](https://www.cnblogs.com/joyeecheung/p/3841952.html)
+- [用python + hadoop streaming 编写分布式程序（一） -- 原理介绍，样例程序与本地调试](https://www.cnblogs.com/joyeecheung/p/3757915.html)
 - [官方-Hadoop Streaming](https://hadoop.apache.org/docs/r3.0.0/hadoop-streaming/HadoopStreaming.html)
 - [问题排查-Hadoop streaming - Subprocess failed with code 1](http://grokbase.com/t/cloudera/cdh-user/132he822ep/hadoop-streaming-subprocess-failed-with-code-1)
 - [Hadoop-Python实现Hadoop Streaming分组和二次排序](http://chenlly.com/2017/04/18/Hadoop-Python%E5%AE%9E%E7%8E%B0HadoopStreaming%E5%88%86%E7%BB%84%E5%92%8C%E4%BA%8C%E6%AC%A1%E6%8E%92%E5%BA%8F/)

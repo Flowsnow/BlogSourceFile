@@ -294,7 +294,7 @@ __main__.Point
 (11, 22)
 ```
 
-命名元祖的具体使用可以参见：[`namedtuple()`](https://docs.python.org/3/library/collections.html#collections.namedtuple)以及[python 命名元组](http://m.blog.csdn.net/article/details?id=52183211)
+命名元祖的具体使用可以参见：[`namedtuple()`](https://docs.python.org/3/library/collections.html#collections.namedtuple)以及[python 命名元组](https://blog.csdn.net/article/details?id=52183211)
 
 ## 字典dict
 
@@ -657,7 +657,7 @@ class set(object)
  |  Methods defined here:
 ```
 
-详细使用可以参考：[http://blog.csdn.net/business122/article/details/7541486](http://blog.csdn.net/business122/article/details/7541486)
+详细使用可以参考：[https://blog.csdn.net/business122/article/details/7541486](https://blog.csdn.net/business122/article/details/7541486)
 
 下面是一个小例子：
 
@@ -1118,8 +1118,8 @@ TypeError: unhashable type: 'list'
 
 ## 参考资料
 
-[Python集合（set）类型的操作](http://blog.csdn.net/business122/article/details/7541486)
+[Python集合（set）类型的操作](https://blog.csdn.net/business122/article/details/7541486)
 
-[python数据类型详解](http://www.cnblogs.com/linjiqin/p/3608541.html)
+[python数据类型详解](https://www.cnblogs.com/linjiqin/p/3608541.html)
 
-[Python中的List，Tuple和Dictionary](http://blog.csdn.net/jubincn/article/details/8570327)
+[Python中的List，Tuple和Dictionary](https://blog.csdn.net/jubincn/article/details/8570327)

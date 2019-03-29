@@ -14,9 +14,9 @@ categories:
 
 如果没有安装可以在一下地址下载安装：
 
-Oracle 11gR2数据库：[http://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html)
+Oracle 11gR2数据库：[https://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html)
 
-PL/SQL developer(含注册机)：[http://pan.baidu.com/s/1kUfY8GB](http://pan.baidu.com/s/1kUfY8GB) 密码: 1ky8
+PL/SQL developer(含注册机)：[https://pan.baidu.com/s/1kUfY8GB](https://pan.baidu.com/s/1kUfY8GB) 密码: 1ky8
 
 首先打开PL/SQL，会发现没有database可以选择，我们可以以非登录方式登陆PL/SQL（直接点cancel即可）。
 
@@ -61,11 +61,11 @@ With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 32位的Oracle client下载地址：
 
-官网：[http://www.oracle.com/technetwork/topics/winsoft-085727.html](http://www.oracle.com/technetwork/topics/winsoft-085727.html)
+官网：[https://www.oracle.com/technetwork/topics/winsoft-085727.html](https://www.oracle.com/technetwork/topics/winsoft-085727.html)
 
 CSDN：[http://download.csdn.net/download/ss123sswe/7166681](http://download.csdn.net/download/ss123sswe/7166681)
 
-百度云：[http://pan.baidu.com/s/1kTS1hif](http://pan.baidu.com/s/1kTS1hif) 密码: a8zr
+百度云：[https://pan.baidu.com/s/1kTS1hif](https://pan.baidu.com/s/1kTS1hif) 密码: a8zr
 
 下载下来的 Oracle Client是解压版的，因此只要需要解压了。将下载的Oracle Client文件instantclient-basic-win32-11.2.0.1.0.zip（这是客户端，必须是32位）解压到d:\app\（解压到别的地方也可以，只是后面的配置需要按照这个进行）。然后在解压后的D:\app\instantclient_11_2目录下新建NETWORK\ADMIN目录，在ADMIN目录下新建tnsnames.ora文件，添加数据库TNS。
 

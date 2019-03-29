@@ -91,7 +91,7 @@ date: 2018-02-11 23:57:27
 
 关于2018年要做的事情要去的地方参见以下随笔：
 
-- http://flowsnow.net/2018/12/31/2018-must-do-and-must-go/
+- https://suncle.me/2018/12/31/2018-must-do-and-must-go/
 
 
 That's all!

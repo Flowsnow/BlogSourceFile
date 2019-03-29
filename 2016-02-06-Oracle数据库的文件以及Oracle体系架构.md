@@ -141,7 +141,7 @@ select file_name,tablespace_name from dba_temp_files;
 
 非活动日志损坏：数据不会丢失，可以重建日志文件
 
-Oracle日志文件的状态可参见：[Oracle日志文件的状态current/active/inactive/unused](http://www.linuxidc.com/Linux/2014-09/106795.htm)
+Oracle日志文件的状态可参见：[Oracle日志文件的状态current/active/inactive/unused](https://www.linuxidc.com/Linux/2014-09/106795.htm)
 
 
 

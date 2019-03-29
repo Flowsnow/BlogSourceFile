@@ -29,7 +29,7 @@ date: 2018-01-29 18:31:37
 白盒测试，使用EUnit框架，主要参考以下资料：
 
 1. [rebar的开始wiki-使用EUnit为例讲解](https://github.com/rebar/rebar/wiki/Getting-started)
-2. [博客园-Rebar：Erlang构建工具](http://www.cnblogs.com/panfeng412/archive/2011/08/14/compile-erlang-with-rebar.html)
+2. [博客园-Rebar：Erlang构建工具](https://www.cnblogs.com/panfeng412/archive/2011/08/14/compile-erlang-with-rebar.html)
 
 # Common Test
 
@@ -40,7 +40,7 @@ Common Test简写为CT
 1. [CT入门示例-Erlang Common Test Examples](https://github.com/Eonblast/Trinity)
 2. [淘宝储霸-rebar和common_test使用实践和疑惑澄清](http://blog.yufeng.info/archives/1711)
 3. [**淘宝储霸-Erlang开发实践-可重点阅读**](https://www.google.com/url?q=http://blog.yufeng.info/wp-content/uploads/2009/11/Erlang%25E5%25BC%2580%25E5%258F%2591%25E5%25AE%259E%25E8%25B7%25B5.pptx&sa=U&ved=0ahUKEwjBzo-OxvLYAhVXHGMKHZuNAzQQFggTMAU&client=internal-uds-cse&cx=011994216034381653247:b54vq7hrjse&usg=AOvVaw0WIFSQAi_m-43HdKJGEZcl)
-4. [Erlang官方-Running Tests and Analyzing Results](http://erlang.org/doc/apps/common_test/run_test_chapter.html)
+4. [Erlang官方-Running Tests and Analyzing Results](https://www.erlang.org/doc/apps/common_test/run_test_chapter.html)
 5. [EUC2009-CommonTestPresentation.pdf](http://www.erlang-factory.com/upload/presentations/204/EUC2009-CommonTestPresentation.pdf)
 
 # Cover
