@@ -13,11 +13,11 @@ date: 2019-05-08 10:58:43
 
 ## 传统技术栈
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2sxz45bbcj31400u0kjl.jpg)
+![](http://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/brief-introduction-and-comparison-of-data-warehouse/21557225799_.pic_hd.jpg)
 
 ## 再惠技术栈
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1g2sxywkb6fj31400u0npd.jpg)
+![](http://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/brief-introduction-and-comparison-of-data-warehouse/11557225799_.pic_hd.jpg)
 
 <!--more-->
 
@@ -41,7 +41,7 @@ date: 2019-05-08 10:58:43
 
 参考：https://suncle.me/2018/04/17/Writing-An-Hadoop-MapReduce-Program-In-Python/
 
-![](https://cdn.guru99.com/images/Big_Data/061114_0930_Introductio1.png)
+![](http://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/brief-introduction-and-comparison-of-data-warehouse/061114_0930_Introductio1.png)
 
 ## hive工作原理
 
@@ -58,7 +58,7 @@ Hive可以允许用户编写自己定义的函数UDF，来在查询中使用。H
 
 **Hive设计图：**
 
-![](https://cwiki.apache.org/confluence/download/attachments/27362072/system_architecture.png?version=1&modificationDate=1414560669000&api=v2)
+![](http://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/brief-introduction-and-comparison-of-data-warehouse/hive_system_architecture.png)
 
 1. UI：用户界面，本质就是一个客户端，比如HUE(**Hadoop User Experience**)
 2. Driver：接收查询的组件。比如接收HUE和presto过来的查询
@@ -70,7 +70,7 @@ Hive可以允许用户编写自己定义的函数UDF，来在查询中使用。H
 
 可以按照以下技术栈出现的顺序进行升级，目前阶段是打算把hive升级到spark，将spark streaming投入生产。后续向Beam靠拢。
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g2tpsxwqhuj30xc0kmweu.jpg)
+![](http://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/brief-introduction-and-comparison-of-data-warehouse/bigdata_tech_stack.jpg)
 
 ## QA
 
