@@ -220,9 +220,4 @@ Mondrian不是一个真正的OLAP数据库，是一个基于关系数据库的�
 - [BigQuery under the hood](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood)
 - [主流OLAP系统对比总结](https://zhuanlan.zhihu.com/p/38767561)
 - https://zhuanlan.zhihu.com/p/51555789
-
-
-
-
-
-https://github.com/yandex/ClickHouse/issues/1178
+- https://github.com/yandex/ClickHouse/issues/1178

@@ -27,6 +27,14 @@ date: 2019-07-27 17:13:16
 Amazon linux 2是centos系的，使用的yum系的安装方式
 
 * [GitHub - Altinity/clickhouse-rpm-install: How to install clickhouse RPM packages](https://github.com/Altinity/clickhouse-rpm-install)
+
+修改机器时区(不需要重启)
+```bash
+sudo cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+```
+
+开始安装
+
 ```bash
 sudo yum install -y curl
 sudo yum install -y epel-release
@@ -81,7 +89,13 @@ rKbfrrze4PO5xWeN
 clickhouse-client -u zaihui --password rKbfrrze4PO5xWeN
 clickhouse-client -u zaihui --password rKbfrrze4PO5xWeN
 ```
+修改clickhouse时区配置
+```bash
+<timezone>Asia/Shanghai</timezone>
+```
+
 取消访问来源ip的限制`sudo vim /etc/clickhouse-server/config.xml`
+
 ```xml
     <!-- <listen_host>::</listen_host> -->
     <!-- Same for hosts with disabled ipv6: -->
