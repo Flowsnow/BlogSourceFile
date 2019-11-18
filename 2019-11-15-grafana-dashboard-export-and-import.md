@@ -386,7 +386,7 @@ def main():
                     json_data = fp.read()
                     data = json.loads(json_data)
                     fp.seek(0)
-                    fp.write(json.dumps(data["dashboard"], sort_keys=True))
+                    fp.write(json.dumps(data["dashboard"], sort_keys=True))  # 字母序
                     print("{}: success".format(filename))
             except Exception as e:
                 print("{}: {}".format(filename, e))
