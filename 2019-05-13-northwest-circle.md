@@ -20,11 +20,11 @@ date: 2019-05-13 00:20:19
 
 废话了一堆，先来看下行程的整体情况，首先是使用百度地图制作的大致路线图。不使用google地图的原因很简单，有一些地点在google上没有，就没法使用了。图上显示是1851公里，但实际行程远远不止这么多，理论上接近3000公里才对。6天跑了3000公里，没错就是这么强。典型的上车睡觉下车拍照的玩法。虽然不是我想要的方式，但是假期有限也是没得办法啦。
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1g2ym2szf8hj30x20iugqs.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/20190501-northwest-circle/006tNc79gy1g2ym2szf8hj30x20iugqs.jpg)
 
 想玩的更细致的可以参见这一份手绘地图(出自昆哥的女朋友)：
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g1v2loan1qj30g90gztav.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/20190501-northwest-circle/006tNc79gy1g1v2loan1qj30g90gztav.jpg)
 
 ## 行程
 

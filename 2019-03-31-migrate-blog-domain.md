@@ -233,7 +233,7 @@ server {
 ## 迁移Google和Baidu收录索引
 
 Baidu收录可以直接使用Baidu网站改版工具实现，Google收录可以使用Google更改网站地址工具实现，但是前提是需要配置好301重定向。Google提交更换地址申请页面如下：
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1g1l9odqg7mj31iv0u0jy3.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/migrate-blog-domain/google-replace-domain.jpg)
 
 ## 迁移Disqus到Valine
 
@@ -243,7 +243,7 @@ Valine基于LeanCloud，不得不说，LeanCloud的服务一直都是比较稳�
 
 迁移Disqus评论数据到Valine可以使用Disqus2LeanCloud这个工具，见下图，具体使用可以参考后面的参考链接
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1g1lb9soagwj31u70u0wl7.jpg)
+![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tech/migrate-blog-domain/Disqus2LeadCloud.jpg)
 
 ---
 

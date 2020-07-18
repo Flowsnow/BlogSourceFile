@@ -27,9 +27,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 
 ## 安装ConvertToUTF8
 
-打开Preference下面Package Control，输入Install Package回车，这时候会加载所有的packges列表。看到列表之后再输入ConvertToUTF8回车，就会下载安装这个包了。装好之后会看到这个包的说明文件，如下图。
-
-![](http://ww2.sinaimg.cn/large/70dcc3a2gw1e909tgk2vjj20qm0l844b.jpg)
+打开Preference下面Package Control，输入Install Package回车，这时候会加载所有的packges列表。看到列表之后再输入ConvertToUTF8回车，就会下载安装这个包了。装好之后会看到这个包的说明文件。
 
 至此中文乱码成功解决。
 
