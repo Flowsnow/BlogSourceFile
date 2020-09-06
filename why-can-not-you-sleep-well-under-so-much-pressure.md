@@ -1,5 +1,5 @@
 ---
-title: "Why Can Not You Sleep Well Under So Much Pressure"
+title: "你压力都这么大了，怎么还睡不好？"
 date: 2020-09-07T02:22:53+08:00
 categories: ["职场", "杂谈"]
 tags: ["职场", "睡眠"]
