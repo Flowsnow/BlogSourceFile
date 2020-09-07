@@ -1,12 +1,11 @@
----
-title: Python函数定义及参数详解
-tags:
-  - 函数
-  - 参数
-categories:
-  - Python
-date: 2016-09-05 19:40:25
----
++++
+title = "Python函数定义及参数详解"
+tags = ["函数", "参数"]
+categories = ["Python"]
+date = "2016-09-05T19:40:25+08:00"
+description = ""
++++
+
 
 # Python函数定义及参数详解
 

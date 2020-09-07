@@ -1,18 +1,12 @@
----
-title: Linux vi的使用
-tags:
-  - CentOS
-  - Linux
-  - vi
-  - vim
-  - 总结
-  - 模式
-  - 配置
-id: 179
-categories:
-  - Linux
-date: 2016-01-10 14:15:34
----
++++
+title = "Linux vi的使用"
+tags = ["CentOS", "Linux", "vi", "vim", "总结", "模式", "配置"]
+id = 179
+categories = ["Linux"]
+date = "2016-01-10T14:15:34+08:00"
+description = ""
++++
+
 
 # Linux vi的使用
 

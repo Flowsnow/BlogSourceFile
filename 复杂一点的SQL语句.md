@@ -1,12 +1,11 @@
----
-title: 复杂一点的SQL语句
-date: 2016-02-19 22:50:12
-tags:
-  - SQL
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "复杂一点的SQL语句"
+date = "2016-02-19T22:50:12+08:00"
+tags = ["SQL", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ## DDL：对表或者表的属性进行了改变
 
 ### create：创建表创建用户创建视图

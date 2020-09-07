@@ -1,12 +1,11 @@
----
-title: 结合公司现状浅谈CMDB
-tags:
-  - CMDB
-  - Python
-categories:
-  - Python
-date: 2017-05-23 16:24:48
----
++++
+title = "结合公司现状浅谈CMDB"
+tags = ["CMDB", "Python"]
+categories = ["Python"]
+date = "2017-05-23T16:24:48+08:00"
+description = ""
++++
+
 
 
 本篇文章结合参考资料中的几篇CMDB的文章再加上目前公司的现状谈一谈CMDB。

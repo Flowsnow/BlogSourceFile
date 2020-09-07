@@ -1,13 +1,11 @@
----
-title: 如何看待work from travel
-tags:
-  - 感悟
-  - 旅行
-  - 采访
-categories:
-  - Http
-date: 2019-11-13 20:14:34
----
++++
+title = "如何看待work from travel"
+tags = ["感悟", "旅行", "采访"]
+categories = ["Http"]
+date = "2019-11-13T20:14:34+08:00"
+description = ""
++++
+
 
 
 什么是work from travel？简单说就是边旅行边工作。每时每刻都想体验不一样的生活，想待在不同的地方思考当地人的生活方式，想一直走在路上，想永不停歇，想...

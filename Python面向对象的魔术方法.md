@@ -1,12 +1,11 @@
----
-title: Python面向对象的魔术方法
-tags:
-  - Python
-  - 面向对象
-categories:
-  - Python
-date: 2017-03-15 20:55:20
----
++++
+title = "Python面向对象的魔术方法"
+tags = ["Python", "面向对象"]
+categories = ["Python"]
+date = "2017-03-15T20:55:20+08:00"
+description = ""
++++
+
 
 
 # 魔术方法

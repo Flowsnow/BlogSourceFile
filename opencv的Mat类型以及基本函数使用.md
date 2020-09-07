@@ -1,16 +1,11 @@
----
-title: OpenCV的Mat类型以及基本函数使用
-tags:
-  - OpenCV
-  - Mat
-  - imread
-  - imshow
-  - imwrite
-  - cvtcolor
-date: 2016-05-10 22:01:34
-categories:
-  - OpenCV
----
++++
+title = "OpenCV的Mat类型以及基本函数使用"
+tags = ["OpenCV", "Mat", "imread", "imshow", "imwrite", "cvtcolor"]
+date = "2016-05-10T22:01:34+08:00"
+categories = ["OpenCV"]
+description = ""
++++
+
 
 # OpenCV的Mat类型以及基本函数使用
 

@@ -1,13 +1,11 @@
----
-title: unix domain socket
-tags:
-  - unix
-  - socket
-  - IPC
-categories:
-  - 网络
-date: 2017-12-11 14:01:05
----
++++
+title = "unix domain socket"
+tags = ["unix", "socket", "IPC"]
+categories = ["网络"]
+date = "2017-12-11T14:01:05+08:00"
+description = ""
++++
+
 
 
 # unix domain socket

@@ -1,13 +1,11 @@
----
-title: Clickhouse分布式集群搭建
-tags:
-  - clickhouse
-  - 分布式
-  - 搭建
-categories:
-  - Clickhouse
-date: 2019-07-27 17:13:16
----
++++
+title = "Clickhouse分布式集群搭建"
+tags = ["clickhouse", "分布式", "搭建"]
+categories = ["Clickhouse"]
+date = "2019-07-27T17:13:16+08:00"
+description = ""
++++
+
 
 
 # 目标：1分片2副本的集群

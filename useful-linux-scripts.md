@@ -1,12 +1,11 @@
----
-title: 常用Linux脚本集锦
-tags:
-  - Linux
-  - Bash
-categories:
-  - Linux
-date: 2019-03-30 01:13:35
----
++++
+title = "常用Linux脚本集锦"
+tags = ["Linux", "Bash"]
+categories = ["Linux"]
+date = "2019-03-30T01:13:35+08:00"
+description = ""
++++
+
 
 
 常用linux脚本：

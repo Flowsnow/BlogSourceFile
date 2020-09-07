@@ -1,13 +1,11 @@
----
-title: Python-pymysql
-tags:
-  - pymysql
-  - mysql
-  - MariaDB
-categories:
-  - Python
-date: 2017-04-14 22:29:54
----
++++
+title = "Python-pymysql"
+tags = ["pymysql", "mysql", "MariaDB"]
+categories = ["Python"]
+date = "2017-04-14T22:29:54+08:00"
+description = ""
++++
+
 
 # 安装
 

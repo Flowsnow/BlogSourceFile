@@ -1,12 +1,11 @@
----
-title: JavaScript基础
-tags:
-  - JavaScript
-  - 基础
-categories:
-  - JavaScript
-date: 2017-04-18 23:00:20
----
++++
+title = "JavaScript基础"
+tags = ["JavaScript", "基础"]
+categories = ["JavaScript"]
+date = "2017-04-18T23:00:20+08:00"
+description = ""
++++
+
 
 JavaScript 从 Java 中借用其大部分语法，但也受 Awk，Perl 和 Python的影响。因此本篇博客基于对Java和Python的认识来记录JavaScript的差异点。
 

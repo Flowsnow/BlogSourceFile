@@ -1,13 +1,11 @@
----
-title: Oracle内存结构和后台进程
-date: 2016-03-16 11:22:28
-tags:
-  - Oracle
-  - 内存结构
-  - 后台进程
-categories:
-  - Oracle数据库
----
++++
+title = "Oracle内存结构和后台进程"
+date = "2016-03-16T11:22:28+08:00"
+tags = ["Oracle", "内存结构", "后台进程"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Oracle%E5%86%85%E5%AD%98%E5%92%8C%E5%90%8E%E5%8F%B0%E8%BF%9B%E7%A8%8B.png)

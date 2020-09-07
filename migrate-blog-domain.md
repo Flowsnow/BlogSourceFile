@@ -1,12 +1,11 @@
----
-title: 博客域名迁移
-tags:
-  - Hexo
-  - Nginx
-categories:
-  - Hexo博客
-date: 2019-03-31 01:00:56
----
++++
+title = "博客域名迁移"
+tags = ["Hexo", "Nginx"]
+categories = ["Hexo博客"]
+date = "2019-03-31T01:00:56+08:00"
+description = ""
++++
+
 
 
 突然就想给本站换个域名了，那么就动手了

@@ -1,14 +1,11 @@
----
-title: 运维人员常用的Linux命令总结
-date: 2016-03-28 10:35:56
-tags:
-  - 运维
-  - Linux
-  - 命令
-  - 总结
-categories:
-  - Linux
----
++++
+title = "运维人员常用的Linux命令总结"
+date = "2016-03-28T10:35:56+08:00"
+tags = ["运维", "Linux", "命令", "总结"]
+categories = ["Linux"]
+description = ""
++++
+
 ---
 
 ## 目录结构

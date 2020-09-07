@@ -1,13 +1,11 @@
----
-title: 闪回flashback
-date: 2016-03-21 17:32:01
-tags:
-  - flashback
-  - 闪回
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "闪回flashback"
+date = "2016-03-21T17:32:01+08:00"
+tags = ["flashback", "闪回", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-flashback_pic.png)
 

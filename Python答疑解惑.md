@@ -1,12 +1,11 @@
----
-title: Python答疑解惑
-tags: 
-  - Python
-  - 经验
-categories: 
-  - Python
-date: 2016-12-04 22:47:22
----
++++
+title = "Python答疑解惑"
+tags = ["Python", "经验"]
+categories = ["Python"]
+date = "2016-12-04T22:47:22+08:00"
+description = ""
++++
+
 
 # Python自动化运维答疑解惑
 

@@ -1,12 +1,11 @@
----
-title: 2018个人年度报告
-tags:
-  - 2018
-  - 总结
-categories:
-  - 总结感悟
-date: 2019-01-12 23:36:53
----
++++
+title = "2018个人年度报告"
+tags = ["2018", "总结"]
+categories = ["总结感悟"]
+date = "2019-01-12T23:36:53+08:00"
+description = ""
++++
+
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/summary/2018-annual-report/eyeemfiltered1520083346838.jpg)
 

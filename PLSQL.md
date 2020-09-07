@@ -1,12 +1,11 @@
----
-title: plsql
-date: 2016-02-19 22:45:12
-tags:
-  - plsql
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "plsql"
+date = "2016-02-19T22:45:12+08:00"
+tags = ["plsql", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 **PL/SQL**
 
 PL/SQL也是一种程序语言，叫做**过程化SQL语言**（Procedural Language/SQL）。PL/SQL是Oracle数据库对SQL语句的扩展。在普通SQL语句的使用上增加了编程语言的特点，所以PL/SQL就是把数据操作和查询语句组织在PL/SQL代码的过程性单元中，通过逻辑判断、循环等操作实现复杂的功能或者计算的程序语言。

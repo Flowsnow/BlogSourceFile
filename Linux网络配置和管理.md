@@ -1,13 +1,11 @@
----
-title: Linux网络配置和管理
-date: 2016-01-22 19:59:15
-tags:
-  - Linux
-  - 网络
-  - CentOS
-categories:
-  - Linux
----
++++
+title = "Linux网络配置和管理"
+date = "2016-01-22T19:59:15+08:00"
+tags = ["Linux", "网络", "CentOS"]
+categories = ["Linux"]
+description = ""
++++
+
 
 ## 网络设备信息查看和配置
 

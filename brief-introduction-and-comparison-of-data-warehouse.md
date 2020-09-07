@@ -1,12 +1,11 @@
----
-title: 数仓工作的简单介绍和对比
-tags:
-  - 数仓
-  - BigData
-categories:
-  - BigData
-date: 2019-05-08 10:58:43
----
++++
+title = "数仓工作的简单介绍和对比"
+tags = ["数仓", "BigData"]
+categories = ["BigData"]
+date = "2019-05-08T10:58:43+08:00"
+description = ""
++++
+
 
 
 数仓工作的简单介绍和对比

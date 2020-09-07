@@ -1,12 +1,11 @@
----
-title: Python解析式
-tags:
-  - Python
-  - 解析式
-categories:
-  - Python
-date: 2017-01-11 22:44:30
----
++++
+title = "Python解析式"
+tags = ["Python", "解析式"]
+categories = ["Python"]
+date = "2017-01-11T22:44:30+08:00"
+description = ""
++++
+
 
 
 # Python解析式

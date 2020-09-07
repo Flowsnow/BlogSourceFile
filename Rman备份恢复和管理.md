@@ -1,13 +1,11 @@
----
-title: Rman备份恢复和管理
-date: 2016-03-18 15:47:01
-tags:
-  - Rman
-  - 备份
-  - 恢复
-categories:
-  - Oracle数据库
----
++++
+title = "Rman备份恢复和管理"
+date = "2016-03-18T15:47:01+08:00"
+tags = ["Rman", "备份", "恢复"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/Oracle-Rman%E7%BB%84%E4%BB%B6.jpg)
 
 参考资料：

@@ -1,15 +1,12 @@
----
-title: Linux规划、安装、远程管理
-tags:
-  - CentOS
-  - Linux
-  - 安装
-  - 远程管理
-id: 162
-categories:
-  - Linux
-date: 2015-12-27 23:43:53
----
++++
+title = "Linux规划、安装、远程管理"
+tags = ["CentOS", "Linux", "安装", "远程管理"]
+id = 162
+categories = ["Linux"]
+date = "2015-12-27T23:43:53+08:00"
+description = ""
++++
+
 
 ## Linux规划
 

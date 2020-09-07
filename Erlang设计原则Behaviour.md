@@ -1,15 +1,11 @@
----
-title: Erlang设计原则Behaviour
-tags:
-  - Erlang
-  - OTP
-  - Behaviour
-  - gen_server
-  - supervisor
-categories:
-  - Erlang
-date: 2017-11-20 16:29:01
----
++++
+title = "Erlang设计原则Behaviour"
+tags = ["Erlang", "OTP", "Behaviour", "gen_server", "supervisor"]
+categories = ["Erlang"]
+date = "2017-11-20T16:29:01+08:00"
+description = ""
++++
+
 
 标准 Erlang/OTP 行为有
 

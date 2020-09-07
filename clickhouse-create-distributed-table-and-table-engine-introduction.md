@@ -1,12 +1,11 @@
----
-title: Clickhouse创建分布式表以及表引擎介绍
-tags:
-  - clickhouse
-  - 分布式
-categories:
-  - Clickhouse
-date: 2019-07-27 17:23:31
----
++++
+title = "Clickhouse创建分布式表以及表引擎介绍"
+tags = ["clickhouse", "分布式"]
+categories = ["Clickhouse"]
+date = "2019-07-27T17:23:31+08:00"
+description = ""
++++
+
 
 
 # 表引擎

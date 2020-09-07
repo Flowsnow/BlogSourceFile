@@ -1,13 +1,11 @@
----
-title: linux配置c++11编译环境
-tags:
-  - Linux
-  - C++
-  - C++11
-categories:
-  - Linux
-date: 2016-12-29 14:39:17
----
++++
+title = "linux配置c++11编译环境"
+tags = ["Linux", "C++", "C++11"]
+categories = ["Linux"]
+date = "2016-12-29T14:39:17+08:00"
+description = ""
++++
+
 
 # linux配置c++11编译环境
 

@@ -1,13 +1,11 @@
----
-title: Hadoop3单机和伪分布式模式安装配置
-tags:
-  - Hadoop
-  - 安装
-  - 配置
-categories:
-  - Hadoop
-date: 2018-04-16 19:08:28
----
++++
+title = "Hadoop3单机和伪分布式模式安装配置"
+tags = ["Hadoop", "安装", "配置"]
+categories = ["Hadoop"]
+date = "2018-04-16T19:08:28+08:00"
+description = ""
++++
+
 
 
 > 搭建hadoop

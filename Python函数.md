@@ -1,12 +1,11 @@
----
-title: Python函数
-tags:
-  - Python
-  - 函数
-categories:
-  - Python
-date: 2017-01-07 22:08:51
----
++++
+title = "Python函数"
+tags = ["Python", "函数"]
+categories = ["Python"]
+date = "2017-01-07T22:08:51+08:00"
+description = ""
++++
+
 
 # Python函数
 

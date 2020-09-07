@@ -1,11 +1,12 @@
----
-title: 个人CSDN博客和博客园重点文章摘取
-id: 84
-categories:
-  - 总结感悟
-date: 2015-11-28 15:09:17
-tags:
----
++++
+title = "个人CSDN博客和博客园重点文章摘取"
+id = 84
+categories = ["总结感悟"]
+date = "2015-11-28T15:09:17+08:00"
+#tags = null  # To use: uncomment and replace null with value
+description = ""
++++
+
 
 * [VMware11.1.2安装CentOS6.7详细步骤](https://blog.csdn.net/u013637931/article/details/49288073)
 * [CentOS6.7配置静态IP](https://blog.csdn.net/u013637931/article/details/49287643)

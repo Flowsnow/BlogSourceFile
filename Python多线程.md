@@ -1,13 +1,11 @@
----
-title: Python多线程
-tags:
-  - Python
-  - 多线程
-  - threading
-categories:
-  - Python
-date: 2017-03-23 01:57:30
----
++++
+title = "Python多线程"
+tags = ["Python", "多线程", "threading"]
+categories = ["Python"]
+date = "2017-03-23T01:57:30+08:00"
+description = ""
++++
+
 
 # 多线程基础概念
 

@@ -1,12 +1,11 @@
----
-title: Python-WSGI接口
-tags:
-  - web
-  - wsgi
-categories:
-  - Python
-date: 2017-04-07 21:41:08
----
++++
+title = "Python-WSGI接口"
+tags = ["web", "wsgi"]
+categories = ["Python"]
+date = "2017-04-07T21:41:08+08:00"
+description = ""
++++
+
 
 Python WSGI规定了Web服务器和Python Web应用程序或Web框架之间的标准接口，主要是为了促进Web应用程序在各种Web服务器上的可移植性。
 

@@ -1,12 +1,11 @@
----
-title: DBA常用的SQL语句
-date: 2016-03-16 11:07:19
-tags:
-  - DBA
-  - SQL
-categories:
-  - Oracle数据库
----
++++
+title = "DBA常用的SQL语句"
+date = "2016-03-16T11:07:19+08:00"
+tags = ["DBA", "SQL"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ----
 
 DBA常用的SQL语句

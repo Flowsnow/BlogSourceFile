@@ -1,12 +1,11 @@
----
-title: 常用Linux命令集锦
-tags:
-  - Linux
-  - Bash
-categories:
-  - Linux
-date: 2019-03-30 01:00:15
----
++++
+title = "常用Linux命令集锦"
+tags = ["Linux", "Bash"]
+categories = ["Linux"]
+date = "2019-03-30T01:00:15+08:00"
+description = ""
++++
+
 
 
 常用linux命令:

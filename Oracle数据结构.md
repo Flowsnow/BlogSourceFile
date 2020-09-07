@@ -1,13 +1,11 @@
----
-title: Oracle数据结构
-date: 2016-03-16 15:08:49
-tags:
-  - Oracle
-  - 存储
-  - 数据结构
-categories:
-  - Oracle数据库
----
++++
+title = "Oracle数据结构"
+date = "2016-03-16T15:08:49+08:00"
+tags = ["Oracle", "存储", "数据结构"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 ## Oracle的数据存储结构
 

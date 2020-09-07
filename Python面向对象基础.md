@@ -1,12 +1,11 @@
----
-title: Python面向对象基础
-tags:
-  - Python
-  - 面向对象
-categories:
-  - Python
-date: 2017-03-08 12:22:42
----
++++
+title = "Python面向对象基础"
+tags = ["Python", "面向对象"]
+categories = ["Python"]
+date = "2017-03-08T12:22:42+08:00"
+description = ""
++++
+
 
 
 # 类的定义

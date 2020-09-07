@@ -1,14 +1,11 @@
----
-title: 搭建Hadoop3集群
-tags:
-  - 集群
-  - 搭建
-  - YARN
-  - Hadoop
-categories:
-  - Hadoop
-date: 2018-05-03 16:54:05
----
++++
+title = "搭建Hadoop3集群"
+tags = ["集群", "搭建", "YARN", "Hadoop"]
+categories = ["Hadoop"]
+date = "2018-05-03T16:54:05+08:00"
+description = ""
++++
+
 
 强烈建议再搭建hadoop集群之前体验一下单机模式和伪分布式模式的搭建过程，可以参考以下链接：
 

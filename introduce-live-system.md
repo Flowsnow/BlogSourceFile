@@ -1,13 +1,11 @@
----
-title: 直播系统介绍
-tags:
-  - 直播
-  - cdn
-  - livego
-categories:
-  - Go
-date: 2018-12-18 20:48:22
----
++++
+title = "直播系统介绍"
+tags = ["直播", "cdn", "livego"]
+categories = ["Go"]
+date = "2018-12-18T20:48:22+08:00"
+description = ""
++++
+
 
 
 # 演示

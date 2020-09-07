@@ -1,15 +1,11 @@
----
-title: Python基本数据类型-list-tuple-dict-set
-tags:
-  - Python
-  - 列表
-  - 元组
-  - 字典
-  - 集合
-categories:
-  - Python
-date: 2016-09-02 21:20:51
----
++++
+title = "Python基本数据类型-list-tuple-dict-set"
+tags = ["Python", "列表", "元组", "字典", "集合"]
+categories = ["Python"]
+date = "2016-09-02T21:20:51+08:00"
+description = ""
++++
+
 
 # Python基本数据类型-list-tuple-dict-set
 

@@ -1,12 +1,11 @@
----
-title: go2school-2
-tags:
-  - Go
-  - Redis
-categories:
-  - Go
-date: 2018-11-15 15:36:59
----
++++
+title = "go2school-2"
+tags = ["Go", "Redis"]
+categories = ["Go"]
+date = "2018-11-15T15:36:59+08:00"
+description = ""
++++
+
 
 
 

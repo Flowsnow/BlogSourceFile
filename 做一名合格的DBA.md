@@ -1,12 +1,11 @@
----
-title: 做一名合格的DBA
-date: 2016-03-16 10:59:00
-tags:
-  - DBA
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "做一名合格的DBA"
+date = "2016-03-16T10:59:00+08:00"
+tags = ["DBA", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ------
 
 ***Oracle DBA的角色定义***

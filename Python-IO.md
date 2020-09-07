@@ -1,15 +1,11 @@
----
-title: Python IO
-tags:
-  - IO
-  - 文件
-  - 目录
-  - 上下文
-  - 序列化
-categories:
-  - Python
-date: 2017-02-13 23:36:16
----
++++
+title = "Python IO"
+tags = ["IO", "文件", "目录", "上下文", "序列化"]
+categories = ["Python"]
+date = "2017-02-13T23:36:16+08:00"
+description = ""
++++
+
 
 
 # Python IO

@@ -1,12 +1,11 @@
----
-title: 详解supervisor进程管理
-tags:
-  - supervisor
-  - 进程
-categories:
-  - 工具使用
-date: 2017-09-25 17:05:22
----
++++
+title = "详解supervisor进程管理"
+tags = ["supervisor", "进程"]
+categories = ["工具使用"]
+date = "2017-09-25T17:05:22+08:00"
+description = ""
++++
+
 
 
 # supervisor

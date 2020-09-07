@@ -1,12 +1,11 @@
----
-title: 影评：Ready Player One
-tags:
-  - 影评
-  - 头号玩家
-categories:
-  - 影评
-date: 2018-04-11 01:02:24
----
++++
+title = "影评：Ready Player One"
+tags = ["影评", "头号玩家"]
+categories = ["影评"]
+date = "2018-04-11T01:02:24+08:00"
+description = ""
++++
+
 
 ![olivia-cooke](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/ready_player_one/olivia-cooke.jpg)
 

@@ -1,11 +1,11 @@
----
-title: 人间失格
-tags:
-  - 人间失格
-categories:
-  - 总结感悟
-date: 2019-03-02 16:40:55
----
++++
+title = "人间失格"
+tags = ["人间失格"]
+categories = ["总结感悟"]
+date = "2019-03-02T16:40:55+08:00"
+description = ""
++++
+
 
 <blockquote class="blockquote-center">每天面对相同的事情<br>只需遵从昨天的习性不要过度欢喜<br>
 自然就不会感到极度的悲哀<br>为了躲开前方的绊脚石<br>蟾蜍迂回前行</blockquote>

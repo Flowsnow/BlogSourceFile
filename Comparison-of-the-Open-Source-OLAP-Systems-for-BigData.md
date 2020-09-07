@@ -1,12 +1,11 @@
----
-title: 大数据OLAP系统比较
-tags:
-  - Aliyun
-  - BigData
-categories:
-  - BigData
-date: 2019-08-02 17:05:54
----
++++
+title = "大数据OLAP系统比较"
+tags = ["Aliyun", "BigData"]
+categories = ["BigData"]
+date = "2019-08-02T17:05:54+08:00"
+description = ""
++++
+
 
 
 大数据OLAP系统比较

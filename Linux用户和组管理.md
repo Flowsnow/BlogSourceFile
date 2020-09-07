@@ -1,19 +1,12 @@
----
-title: Linux用户和组管理
-tags:
-  - CentOS
-  - Linux
-  - 命令
-  - 总结
-  - 用户
-  - 管理
-  - 组
-  - 配置
-id: 174
-categories:
-  - Linux
-date: 2016-01-09 00:16:04
----
++++
+title = "Linux用户和组管理"
+tags = ["CentOS", "Linux", "命令", "总结", "用户", "管理", "组", "配置"]
+id = 174
+categories = ["Linux"]
+date = "2016-01-09T00:16:04+08:00"
+description = ""
++++
+
 
 * * *
 

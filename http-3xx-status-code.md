@@ -1,13 +1,11 @@
----
-title: 一次奇怪的http状态码改变
-tags:
-  - http
-  - 状态码
-  - 重定向
-categories:
-  - 总结感悟
-date: 2019-11-13 20:14:44
----
++++
+title = "一次奇怪的http状态码改变"
+tags = ["http", "状态码", "重定向"]
+categories = ["总结感悟"]
+date = "2019-11-13T20:14:44+08:00"
+description = ""
++++
+
 
 
 最近将一个很久没有更新的部署在物理机上的一个老服务迁移到k8s时，发现在gitlab ci跑pytest的过程中出现以下报错：

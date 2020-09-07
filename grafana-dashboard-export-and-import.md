@@ -1,13 +1,11 @@
----
-title: Grafana Dashboard 配置导入导出
-tags:
-  - Grafana
-  - Prometheus
-  - 监控
-categories:
-  - DevOps
-date: 2019-11-15 16:57:54
----
++++
+title = "Grafana Dashboard 配置导入导出"
+tags = ["Grafana", "Prometheus", "监控"]
+categories = ["DevOps"]
+date = "2019-11-15T16:57:54+08:00"
+description = ""
++++
+
 
 
 我司最近的一件大事是AWS迁移阿里云，因此之前部署在AWS上的Prometheus监控系统需要迁移到Aliyun机器上，组件之一展示面板Grafana有很多自定义好的配置，而这些配置是存在于grafana.db中的，因此需要导出导入配置到新的db中。Grafana提供了丰富的api供用户使用，我们调用api导出

@@ -1,12 +1,11 @@
----
-title: Oracle字符集检查和修改
-tags:
-  - Oracle
-  - 字符集
-categories:
-  - Oracle数据库
-date: 2016-12-01 22:51:15
----
++++
+title = "Oracle字符集检查和修改"
+tags = ["Oracle", "字符集"]
+categories = ["Oracle数据库"]
+date = "2016-12-01T22:51:15+08:00"
+description = ""
++++
+
 
 # Oracle字符集检查和修改
 

@@ -1,13 +1,11 @@
----
-title: Python拉链法和开地址法实现字典
-tags:
-  - Python
-  - 拉链法
-  - 字典
-categories:
-  - Python
-date: 2017-01-12 17:14:43
----
++++
+title = "Python拉链法和开地址法实现字典"
+tags = ["Python", "拉链法", "字典"]
+categories = ["Python"]
+date = "2017-01-12T17:14:43+08:00"
+description = ""
++++
+
 
 
 # Python拉链法和开地址法实现字典

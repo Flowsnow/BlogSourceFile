@@ -1,14 +1,11 @@
----
-title: ubuntu16.04配置samba解决linux的svn使用舒适问题
-tags:
-  - samba
-  - linux
-  - ubuntu
-  - svn
-categories:
-  - 工具使用
-date: 2017-09-02 00:53:01
----
++++
+title = "ubuntu16.04配置samba解决linux的svn使用舒适问题"
+tags = ["samba", "linux", "ubuntu", "svn"]
+categories = ["工具使用"]
+date = "2017-09-02T00:53:01+08:00"
+description = ""
++++
+
 
 
 个人感觉，svn的命令行使用起来没有git那么舒适，但是windows上的svn GUI客户端TortoiseSVN 使用非常方便。因此对于经常在虚拟机中做服务程序开发但是又不得不用svn的同学来说，结合linux开发环境和TortoiseSVN 来管理代码版本就显得尤其有用。

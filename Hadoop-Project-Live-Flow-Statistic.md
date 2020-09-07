@@ -1,13 +1,11 @@
----
-title: Hadoop项目：从cdn日志统计直播流量
-tags:
-  - 项目
-  - Hadoop
-  - 统计
-categories:
-  - Hadoop
-date: 2018-05-16 13:38:03
----
++++
+title = "Hadoop项目：从cdn日志统计直播流量"
+tags = ["项目", "Hadoop", "统计"]
+categories = ["Hadoop"]
+date = "2018-05-16T13:38:03+08:00"
+description = ""
++++
+
 
 
 从在用的四家cdn的大量日志中，统计出每场直播的流量数据，包括国内流量和海外流量。

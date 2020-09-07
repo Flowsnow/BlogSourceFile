@@ -1,13 +1,11 @@
----
-title: PL/SQL Developer连接本地Oracle 11g 64位数据库
-date: 2016-03-22 11:02:40
-tags:
-  - Oracle
-  - pl/sql
-  - 数据库
-categories:
-  - Oracle数据库
----
++++
+title = "PL/SQL Developer连接本地Oracle 11g 64位数据库"
+date = "2016-03-22T11:02:40+08:00"
+tags = ["Oracle", "pl/sql", "数据库"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ## 登陆PL/SQL
 
 假定本地电脑中已经安装了Oracle 11gR2数据库和PL/SQL developer。

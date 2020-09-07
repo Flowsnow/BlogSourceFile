@@ -1,13 +1,11 @@
----
-title: 从Python调用堆栈获取行号等信息
-tags:
-  - Python
-  - 堆栈
-  - inspect
-categories:
-  - Python
-date: 2017-10-31 09:43:51
----
++++
+title = "从Python调用堆栈获取行号等信息"
+tags = ["Python", "堆栈", "inspect"]
+categories = ["Python"]
+date = "2017-10-31T09:43:51+08:00"
+description = ""
++++
+
 
 
 程序中的日志打印，或者消息上传，比如kafka消息等等。经常上传的消息中需要上传堆栈信息中的文件名、行号、上层调用者等具体用于定位的消息。Python提供了以下两种方法：

@@ -1,12 +1,11 @@
----
-title: DBA日常工作和职责
-date: 2016-03-16 11:15:27
-tags:
-  - DBA
-  - 职责
-categories:
-  - Oracle数据库
----
++++
+title = "DBA日常工作和职责"
+date = "2016-03-16T11:15:27+08:00"
+tags = ["DBA", "职责"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ---
 
 经过前面的学习，对数据库有了一个大致的了解，从这周起对Oracle数据库进行进一步的深入学习。先来学习下DBA日常工作和职责

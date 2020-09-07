@@ -1,12 +1,11 @@
----
-title: Linux的文件和文件系统的管理
-date: 2016-01-14 23:20:34
-tags:
-  - 文件系统
-  - Linux 
-categories:
-  - Linux
----
++++
+title = "Linux的文件和文件系统的管理"
+date = "2016-01-14T23:20:34+08:00"
+tags = ["文件系统", "Linux"]
+categories = ["Linux"]
+description = ""
++++
+
 
 ---
 

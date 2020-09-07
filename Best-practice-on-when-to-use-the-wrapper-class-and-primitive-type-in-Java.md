@@ -1,12 +1,11 @@
----
-title: Best practice on when to use the wrapper class and primitive type in Java
-tags:
-  - wrapper class
-  - primitive type
-categories:
-  - Java
-date: 2019-01-22 21:52:33
----
++++
+title = "Best practice on when to use the wrapper class and primitive type in Java"
+tags = ["wrapper class", "primitive type"]
+categories = ["Java"]
+date = "2019-01-22T21:52:33+08:00"
+description = ""
++++
+
 
 
 > **Best practice on when to use the wrapper class and primitive type in Java**

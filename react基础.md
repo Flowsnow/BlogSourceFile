@@ -1,11 +1,11 @@
----
-title: react基础
-tags:
-  - react
-categories:
-  - JavaScript
-date: 2017-04-27 21:53:00
----
++++
+title = "react基础"
+tags = ["react"]
+categories = ["JavaScript"]
+date = "2017-04-27T21:53:00+08:00"
+description = ""
++++
+
 
 # Hello World
 

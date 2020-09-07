@@ -1,14 +1,11 @@
----
-title: CentOS7-Nginx配置Let's-Encrypt-SSL证书
-tags:
-  - CentOS
-  - Nginx
-  - Let's-Encrypt
-  - SSL
-categories:
-  - Http
-date: 2017-03-30 15:49:46
----
++++
+title = "CentOS7-Nginx配置Let's-Encrypt-SSL证书"
+tags = ["CentOS", "Nginx", "Let's-Encrypt", "SSL"]
+categories = ["Http"]
+date = "2017-03-30T15:49:46+08:00"
+description = ""
++++
+
 
 # Let's-Encrypt
 

@@ -1,12 +1,11 @@
----
-title: 【填坑系列】Python基础知识总目录
-tags: 
-  - 基础 
-  - Python
-categories: 
-  - Python
-date: 2016-12-04 22:47:10
----
++++
+title = "【填坑系列】Python基础知识总目录"
+tags = ["基础", "Python"]
+categories = ["Python"]
+date = "2016-12-04T22:47:10+08:00"
+description = ""
++++
+
 
 Python基础知识初步分为以下几个部分
 

@@ -1,13 +1,11 @@
----
-title: 使用Python语言写Hadoop MapReduce程序
-tags:
-  - Hadoop
-  - Python
-  - MapReduce
-categories:
-  - Hadoop
-date: 2018-04-17 15:54:21
----
++++
+title = "使用Python语言写Hadoop MapReduce程序"
+tags = ["Hadoop", "Python", "MapReduce"]
+categories = ["Hadoop"]
+date = "2018-04-17T15:54:21+08:00"
+description = ""
++++
+
 
 
 在了解到Hadoop的生态环境以及Hadoop单机模式和伪分布式模式安装配置之后，我们可以使用自己熟悉的语言来编写Hadoop MapReduce程序，进一步了解MapReduce编程模型。

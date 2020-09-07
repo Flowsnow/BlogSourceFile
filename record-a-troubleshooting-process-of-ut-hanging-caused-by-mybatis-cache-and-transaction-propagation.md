@@ -1,13 +1,11 @@
----
-title: 记录一次mybatis缓存和事务传播行为导致ut挂的排查过程
-tags:
-  - mybatis
-  - 事务
-  - 缓存
-categories:
-  - Java
-date: 2019-12-19 19:42:19
----
++++
+title = "记录一次mybatis缓存和事务传播行为导致ut挂的排查过程"
+tags = ["mybatis", "事务", "缓存"]
+categories = ["Java"]
+date = "2019-12-19T19:42:19+08:00"
+description = ""
++++
+
 
 
 记录一次mybatis缓存和事务传播行为导致ut挂的排查过程

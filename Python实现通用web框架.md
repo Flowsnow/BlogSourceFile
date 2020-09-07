@@ -1,14 +1,11 @@
----
-title: Python实现通用web框架
-tags:
-  - web
-  - 框架
-  - 路由
-  - Python
-categories:
-  - Python
-date: 2017-05-22 00:52:13
----
++++
+title = "Python实现通用web框架"
+tags = ["web", "框架", "路由", "Python"]
+categories = ["Python"]
+date = "2017-05-22T00:52:13+08:00"
+description = ""
++++
+
 
 
 # 概述

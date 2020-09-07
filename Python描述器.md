@@ -1,12 +1,11 @@
----
-title: Python描述器
-date: 2017-03-16 23:01:23
-tags:
-  - Python
-  - 描述器
-categories:
-  - Python
----
++++
+title = "Python描述器"
+date = "2017-03-16T23:01:23+08:00"
+tags = ["Python", "描述器"]
+categories = ["Python"]
+description = ""
++++
+
 
 # 引入描述器
 

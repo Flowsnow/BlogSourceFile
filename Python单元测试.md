@@ -1,12 +1,11 @@
----
-title: Python单元测试
-tags:
-  - 单元测试
-  - 测试
-categories:
-  - Python
-date: 2017-11-14 20:01:27
----
++++
+title = "Python单元测试"
+tags = ["单元测试", "测试"]
+categories = ["Python"]
+date = "2017-11-14T20:01:27+08:00"
+description = ""
++++
+
 
 # 单元测试
 

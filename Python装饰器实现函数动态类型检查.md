@@ -1,13 +1,11 @@
----
-title: Python装饰器实现函数动态类型检查
-tags:
-  - inspect
-  - 装饰器
-  - 类型检查
-categories:
-  - Python
-date: 2017-02-16 19:48:03
----
++++
+title = "Python装饰器实现函数动态类型检查"
+tags = ["inspect", "装饰器", "类型检查"]
+categories = ["Python"]
+date = "2017-02-16T19:48:03+08:00"
+description = ""
++++
+
 
 # Python装饰器实现函数动态类型检查
 

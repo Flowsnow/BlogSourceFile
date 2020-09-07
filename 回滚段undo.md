@@ -1,12 +1,11 @@
----
-title: 回滚段undo
-date: 2016-03-16 14:42:45
-tags:
-  - Undo
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "回滚段undo"
+date = "2016-03-16T14:42:45+08:00"
+tags = ["Undo", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ---
 
 ## Undo的作用

@@ -1,12 +1,11 @@
----
-title: rtmp规范1.0
-tags:
-  - 规范
-  - rtmp
-categories:
-  - 网络
-date: 2018-03-09 13:52:45
----
++++
+title = "rtmp规范1.0"
+tags = ["规范", "rtmp"]
+categories = ["网络"]
+date = "2018-03-09T13:52:45+08:00"
+description = ""
++++
+
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/history/image/rtmp_img/rtmp_illustration.jpg)
 

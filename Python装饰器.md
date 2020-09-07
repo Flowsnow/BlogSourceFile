@@ -1,14 +1,11 @@
----
-title: Python装饰器
-tags:
-  - Python
-  - 装饰器
-  - 元信息
-  - 柯里化
-categories:
-  - Python
-date: 2017-02-15 19:34:59
----
++++
+title = "Python装饰器"
+tags = ["Python", "装饰器", "元信息", "柯里化"]
+categories = ["Python"]
+date = "2017-02-15T19:34:59+08:00"
+description = ""
++++
+
 
 # Python装饰器
 

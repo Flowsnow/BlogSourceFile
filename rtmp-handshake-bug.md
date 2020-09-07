@@ -1,12 +1,11 @@
----
-title: 排查rtmp协议推流时握手bug
-tags:
-  - rtmp
-  - 握手
-categories:
-  - 网络
-date: 2018-03-20 12:45:29
----
++++
+title = "排查rtmp协议推流时握手bug"
+tags = ["rtmp", "握手"]
+categories = ["网络"]
+date = "2018-03-20T12:45:29+08:00"
+description = ""
++++
+
 
 
 # 概况

@@ -1,13 +1,11 @@
----
-title: Hadoop、MapReduce、HDFS介绍
-tags:
-  - Hadoop
-  - MapReduce
-  - HDFS
-categories:
-  - Hadoop
-date: 2018-04-16 19:08:21
----
++++
+title = "Hadoop、MapReduce、HDFS介绍"
+tags = ["Hadoop", "MapReduce", "HDFS"]
+categories = ["Hadoop"]
+date = "2018-04-16T19:08:21+08:00"
+description = ""
++++
+
 
 
 对于入门hadoop的初学者，首先需要了解一下三个部分：

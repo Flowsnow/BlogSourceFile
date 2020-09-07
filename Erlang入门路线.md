@@ -1,13 +1,11 @@
----
-title: Erlang入门路线
-tags:
-  - Erlang
-  - 总结
-  - 入门
-categories:
-  - Erlang
-date: 2017-12-14 14:33:30
----
++++
+title = "Erlang入门路线"
+tags = ["Erlang", "总结", "入门"]
+categories = ["Erlang"]
+date = "2017-12-14T14:33:30+08:00"
+description = ""
++++
+
 
 间歇性的学了一些Erlang，写了一个直播cdn网关的程序，也算是贡献了代码，完成了第一个项目。结束之际写一个入门路线，记录学习过程。
 

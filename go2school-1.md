@@ -1,11 +1,11 @@
----
-title: go2school-1
-tags:
-  - Go
-categories:
-  - Go
-date: 2018-10-31 20:26:54
----
++++
+title = "go2school-1"
+tags = ["Go"]
+categories = ["Go"]
+date = "2018-10-31T20:26:54+08:00"
+description = ""
++++
+
 
 
 我司大佬[紫月苏](http://www.liriansu.com/)最近在QCon上听了关于Go语言的洗脑报告，回来之后给各位普及了go的一些基本情况和未来发展，感觉大家兴致很浓，于是就在我司内部gitlab上开了一个新的repo，叫做go2school，也就是Go语言学习计划。又因为对Java实在无爱，然后妥妥的就加入了Go的大军。

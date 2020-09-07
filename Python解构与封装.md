@@ -1,13 +1,11 @@
----
-title: Python解构与封装
-tags:
-  - Python
-  - 解构
-  - 封装
-categories:
-  - Python
-date: 2016-12-23 23:45:40
----
++++
+title = "Python解构与封装"
+tags = ["Python", "解构", "封装"]
+categories = ["Python"]
+date = "2016-12-23T23:45:40+08:00"
+description = ""
++++
+
 
 
 # Python解构与封装

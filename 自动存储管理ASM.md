@@ -1,13 +1,11 @@
----
-title: 自动存储管理ASM
-date: 2016-03-21 10:08:50
-tags:
-  - ASM
-  - 管理
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "自动存储管理ASM"
+date = "2016-03-21T10:08:50+08:00"
+tags = ["ASM", "管理", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 参考资料：
 

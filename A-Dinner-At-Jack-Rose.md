@@ -1,11 +1,11 @@
----
-title: 在杰克玫瑰的一顿晚餐
-tags:
-  - Dinner
-categories:
-  - 总结感悟
-date: 2018-08-07 00:22:31
----
++++
+title = "在杰克玫瑰的一顿晚餐"
+tags = ["Dinner"]
+categories = ["总结感悟"]
+date = "2018-08-07T00:22:31+08:00"
+description = ""
++++
+
 
 
 本次晚餐人员总共五人，分别是zhiyuan、yanyun、qiuiqu、yuliangmu、suncle。

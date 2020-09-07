@@ -1,12 +1,11 @@
----
-title: Python常用模块集锦
-tags:
-  - Python
-  - 总结
-categories:
-  - Python
-date: 2018-03-12 17:51:35
----
++++
+title = "Python常用模块集锦"
+tags = ["Python", "总结"]
+categories = ["Python"]
+date = "2018-03-12T17:51:35+08:00"
+description = ""
++++
+
 
 
 Python常用模块集锦

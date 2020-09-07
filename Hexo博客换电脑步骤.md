@@ -1,13 +1,11 @@
----
-title: Hexo博客换电脑步骤
-date: 2016-03-16 20:23:24
-tags:
-  - Hexo
-  - 多电脑
-  - github
-categories:
-  - Hexo博客
----
++++
+title = "Hexo博客换电脑步骤"
+date = "2016-03-16T20:23:24+08:00"
+tags = ["Hexo", "多电脑", "github"]
+categories = ["Hexo博客"]
+description = ""
++++
+
 ![](http://upload.chinaz.com/2015/1016/1444964380585.png)
 
 hexo博客固然好，但是在多个电脑上怎么同步写博客呢？

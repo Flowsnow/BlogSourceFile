@@ -1,12 +1,11 @@
----
-title: Python异常处理
-tags:
-  - Python
-  - 异常处理
-categories:
-  - Python
-date: 2017-03-05 20:28:17
----
++++
+title = "Python异常处理"
+tags = ["Python", "异常处理"]
+categories = ["Python"]
+date = "2017-03-05T20:28:17+08:00"
+description = ""
++++
+
 
 ## 区分Exception和Syntax Error
 

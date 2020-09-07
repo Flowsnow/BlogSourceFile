@@ -1,12 +1,11 @@
----
-title: 当中秋遇上括苍山
-tags:
-  - 中秋
-  - 括苍山
-categories:
-  - 灵魂独旅
-date: 2018-09-26 22:58:31
----
++++
+title = "当中秋遇上括苍山"
+tags = ["中秋", "括苍山"]
+categories = ["灵魂独旅"]
+date = "2018-09-26T22:58:31+08:00"
+description = ""
++++
+
 
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/kuocang/IMG_20180923_061158.jpg)

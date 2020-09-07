@@ -1,13 +1,11 @@
----
-title: 使用ab和wrk对腾讯CLS进行benchmark测试
-tags:
-  - benchmark
-  - ab
-  - wrk
-categories:
-  - 工具使用
-date: 2018-02-01 18:46:45
----
++++
+title = "使用ab和wrk对腾讯CLS进行benchmark测试"
+tags = ["benchmark", "ab", "wrk"]
+categories = ["工具使用"]
+date = "2018-02-01T18:46:45+08:00"
+description = ""
++++
+
 
 
 

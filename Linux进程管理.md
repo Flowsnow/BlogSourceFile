@@ -1,13 +1,11 @@
----
-title: Linux进程管理
-date: 2016-01-22 19:59:28
-tags:
-  - Linux
-  - CentOS
-  - 进程管理
-categories:
-  - Linux
----
++++
+title = "Linux进程管理"
+date = "2016-01-22T19:59:28+08:00"
+tags = ["Linux", "CentOS", "进程管理"]
+categories = ["Linux"]
+description = ""
++++
+
 
 ## 进程的概念
 

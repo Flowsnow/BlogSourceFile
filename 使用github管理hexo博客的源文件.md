@@ -1,12 +1,11 @@
----
-title: 使用Github管理Hexo博客的源文件
-date: 2016-03-16 17:59:12
-tags:
-  - Github
-  - Hexo
-categories:
-  - Hexo博客
----
++++
+title = "使用Github管理Hexo博客的源文件"
+date = "2016-03-16T17:59:12+08:00"
+tags = ["Github", "Hexo"]
+categories = ["Hexo博客"]
+description = ""
++++
+
 
 使用Github管理Hexo博客的源文件
 

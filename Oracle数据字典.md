@@ -1,12 +1,11 @@
----
-title: Oracle数据字典
-date: 2016-03-16 10:23:40
-tags:
-  - 数据字典
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "Oracle数据字典"
+date = "2016-03-16T10:23:40+08:00"
+tags = ["数据字典", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 
 **数据字典的组成——两类视图**

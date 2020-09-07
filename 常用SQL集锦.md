@@ -1,12 +1,11 @@
----
-title: 常用Oracle SQL集锦
-tags:
-  - SQL
-  - Oracle数据库
-categories:
-  - Oracle数据库
-date: 2017-05-10 00:57:17
----
++++
+title = "常用Oracle SQL集锦"
+tags = ["SQL", "Oracle数据库"]
+categories = ["Oracle数据库"]
+date = "2017-05-10T00:57:17+08:00"
+description = ""
++++
+
 
 
 #### 常用dml和query开并行

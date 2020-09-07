@@ -1,13 +1,11 @@
----
-title: CentOS7-Nginx编译安装
-tags:
-  - CentOS
-  - Nginx
-  - 安装
-categories:
-  - Nginx
-date: 2017-03-30 14:29:45
----
++++
+title = "CentOS7-Nginx编译安装"
+tags = ["CentOS", "Nginx", "安装"]
+categories = ["Nginx"]
+date = "2017-03-30T14:29:45+08:00"
+description = ""
++++
+
 
 # 安装编译环境
 

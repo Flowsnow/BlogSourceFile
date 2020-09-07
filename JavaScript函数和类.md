@@ -1,13 +1,11 @@
----
-title: JavaScript函数和类
-tags:
-  - 函数
-  - 类
-  - JavaScript
-categories:
-  - JavaScript
-date: 2017-04-18 23:00:29
----
++++
+title = "JavaScript函数和类"
+tags = ["函数", "类", "JavaScript"]
+categories = ["JavaScript"]
+date = "2017-04-18T23:00:29+08:00"
+description = ""
++++
+
 
 # JavaScript函数
 

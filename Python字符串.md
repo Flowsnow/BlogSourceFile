@@ -1,12 +1,11 @@
----
-title: Python字符串
-date: 2016-08-30 22:56:48
-tags:
-  - Python
-  - 字符串
-categories:
-  - Python
----
++++
+title = "Python字符串"
+date = "2016-08-30T22:56:48+08:00"
+tags = ["Python", "字符串"]
+categories = ["Python"]
+description = ""
++++
+
 
 # Python 字符串str
 

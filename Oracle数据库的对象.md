@@ -1,13 +1,11 @@
----
-title: Oracle数据库的对象
-date: 2016-02-19 17:04:15
-tags:
-  - Oracle
-  - 对象
-categories:
-  - Oracle数据库
++++
+title = "Oracle数据库的对象"
+date = "2016-02-19T17:04:15+08:00"
+tags = ["Oracle", "对象"]
+categories = ["Oracle数据库"]
+description = ""
++++
 
----
 
 查看oracle数据库中的所有对象
 

@@ -1,13 +1,11 @@
----
-title: HmacSHA1和原生SHA1的比较
-tags:
-  - hmac
-  - sha
-  - crypto
-categories:
-  - 安全
-date: 2018-02-01 14:55:27
----
++++
+title = "HmacSHA1和原生SHA1的比较"
+tags = ["hmac", "sha", "crypto"]
+categories = ["安全"]
+date = "2018-02-01T14:55:27+08:00"
+description = ""
++++
+
 
 
 首先来看一段HmacSHA1加密和SHA1加密的代码

@@ -1,12 +1,10 @@
----
-title: Python Google Protocol Buffer
-tags:
-  - Python
-  - Google
-  - PB
-  - Protocol Buffer
-date: 2018-02-06 17:36:47
----
++++
+title = "Python Google Protocol Buffer"
+tags = ["Python", "Google", "PB", "Protocol Buffer"]
+date = "2018-02-06T17:36:47+08:00"
+description = ""
++++
+
 
 
 本篇主要介绍如何在Python语言中使用Google Protocol Buffer（后续都简写为PB）， 包括以下几个部分：

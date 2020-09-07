@@ -1,13 +1,11 @@
----
-title: RAC与DG
-date: 2016-03-16 10:35:05
-tags:
-  - Oracle
-  - RAC
-  - DG
-categories:
-  - Oracle数据库
----
++++
+title = "RAC与DG"
+date = "2016-03-16T10:35:05+08:00"
+tags = ["Oracle", "RAC", "DG"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 ## RAC
 
 RAC: real application clustersrac	

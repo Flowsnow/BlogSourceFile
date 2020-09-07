@@ -1,13 +1,11 @@
----
-title: 【填坑系列】Python习题集
-tags:
-  - practice
-  - 习题
-  - Python
-categories:
-  - Python
-date: 2016-12-13 22:01:08
----
++++
+title = "【填坑系列】Python习题集"
+tags = ["practice", "习题", "Python"]
+categories = ["Python"]
+date = "2016-12-13T22:01:08+08:00"
+description = ""
++++
+
 
 ## 求100万以内的所有素数个数
 

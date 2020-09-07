@@ -1,12 +1,11 @@
----
-title: 重新认识HTTP3xx重定向机制
-tags:
-  - Http
-  - 重定向
-categories:
-  - Http
-date: 2017-11-08 20:24:43
----
++++
+title = "重新认识HTTP3xx重定向机制"
+tags = ["Http", "重定向"]
+categories = ["Http"]
+date = "2017-11-08T20:24:43+08:00"
+description = ""
++++
+
 
 
 # 问题引入

@@ -1,14 +1,11 @@
----
-title: 个人Next主题配置文件
-date: 2016-02-02 14:07:20
-tags:
-  - Next
-  - Mist
-  - Hexo
-  - 配置文件
-categories:
-  - Hexo博客
----
++++
+title = "个人Next主题配置文件"
+date = "2016-02-02T14:07:20+08:00"
+tags = ["Next", "Mist", "Hexo", "配置文件"]
+categories = ["Hexo博客"]
+description = ""
++++
+
 
 **Next主题配置文件_config.yml**
 

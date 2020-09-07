@@ -1,13 +1,11 @@
----
-title: Python时间模块常用操作总结
-tags:
-  - 时间
-  - Python
-  - 总结
-categories:
-  - Python
-date: 2017-09-07 10:43:32
----
++++
+title = "Python时间模块常用操作总结"
+tags = ["时间", "Python", "总结"]
+categories = ["Python"]
+date = "2017-09-07T10:43:32+08:00"
+description = ""
++++
+
 
 
 时间模块常用操作总结为下列各个函数：

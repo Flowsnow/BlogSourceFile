@@ -1,15 +1,12 @@
----
-title: Sublime Text 3解决中文乱码
-tags:
-  - 工具
-  - 总结
-  - 编辑
-  - 配置
-id: 184
-categories:
-  - 工具使用
-date: 2016-01-11 10:50:22
----
++++
+title = "Sublime Text 3解决中文乱码"
+tags = ["工具", "总结", "编辑", "配置"]
+id = 184
+categories = ["工具使用"]
+date = "2016-01-11T10:50:22+08:00"
+description = ""
++++
+
 
 众所周知，Sublime Text 3（下面简称ST3）的默认编码是utf-8，因此需要把GB2312和GBK编码转换成utf-8。在Sublime Text 2中大家解决中文乱码的方法都是先装好Package Control，然后再通过这个安装ConvertToUTF8的Package。
 

@@ -1,11 +1,11 @@
----
-title: Erlang学习笔记(1)
-tags:
-  - Erlang
-categories:
-  - Erlang
-date: 2017-08-11 11:08:13
----
++++
+title = "Erlang学习笔记(1)"
+tags = ["Erlang"]
+categories = ["Erlang"]
+date = "2017-08-11T11:08:13+08:00"
+description = ""
++++
+
 
 ### 0x00 说在前面
 

@@ -1,14 +1,11 @@
----
-title: Python网络编程
-tags:
-  - Python
-  - 网络
-  - socket
-  - socketServer
-categories:
-  - Python
-date: 2017-03-24 22:44:37
----
++++
+title = "Python网络编程"
+tags = ["Python", "网络", "socket", "socketServer"]
+categories = ["Python"]
+date = "2017-03-24T22:44:37+08:00"
+description = ""
++++
+
 
 Python 提供了两个级别访问的网络服务。：
 

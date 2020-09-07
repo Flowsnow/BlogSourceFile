@@ -1,12 +1,11 @@
----
-title: Oracle SQL语句分类
-date: 2016-01-27 15:37:15
-tags:
-  - Oracle
-  - SQL
-categories:
-  - Oracle数据库
----
++++
+title = "Oracle SQL语句分类"
+date = "2016-01-27T15:37:15+08:00"
+tags = ["Oracle", "SQL"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 SQL语句按照功能分为三类，数据库操作语言，数据库定义语言，数据库控制语言。
 

@@ -1,12 +1,11 @@
----
-title: oracle的userenv和nls_lang详解
-date: 2016-12-01 22:53:09
-tags:
-  - 字符集 
-  - nls_lang
-categories: 
-  - Oracle数据库
----
++++
+title = "oracle的userenv和nls_lang详解"
+date = "2016-12-01T22:53:09+08:00"
+tags = ["字符集", "nls_lang"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 # oracle的userenv和nls_lang详解
 

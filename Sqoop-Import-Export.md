@@ -1,13 +1,11 @@
----
-title: Sqoop导入导出
-tags:
-  - Sqoop
-  - HDFS
-  - Hadoop
-categories:
-  - Hadoop
-date: 2018-05-09 15:17:50
----
++++
+title = "Sqoop导入导出"
+tags = ["Sqoop", "HDFS", "Hadoop"]
+categories = ["Hadoop"]
+date = "2018-05-09T15:17:50+08:00"
+description = ""
++++
+
 
 
 Apache Sqoop是一种用于在Apache Hadoop和结构化数据存储（如关系数据库）之间高效传输批量数据的工具。实质就是将导入导出命令转换成mapreduce程序来实现。

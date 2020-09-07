@@ -1,13 +1,11 @@
----
-title: 事务Transaction
-date: 2016-03-23 11:00:22
-tags:
-  - 事务
-  - Transaction
-  - Oracle
-categories:
-  - Oracle数据库
----
++++
+title = "事务Transaction"
+date = "2016-03-23T11:00:22+08:00"
+tags = ["事务", "Transaction", "Oracle"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 参考资料：
 
 <a href="https://docs.oracle.com/cd/E11882_01/server.112/e40540/transact.htmhttps://docs.oracle.com/cd/E11882_01/server.112/e40540/transact.htm" rel="nofollow">Transactions</a>

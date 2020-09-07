@@ -1,12 +1,11 @@
----
-title: 思考一次整体调整Python项目规范性的过程
-tags:
-  - Python
-  - 规范
-categories:
-  - 设计思想
-date: 2017-10-31 09:44:25
----
++++
+title = "思考一次整体调整Python项目规范性的过程"
+tags = ["Python", "规范"]
+categories = ["设计思想"]
+date = "2017-10-31T09:44:25+08:00"
+description = ""
++++
+
 
 
 本篇文章主要是记录整体调整Python数据统计分析项目规范性的过程，以及自己的一些思考。

@@ -1,12 +1,11 @@
----
-title: win7x64安装配置Oracle 11g R2数据库
-date: 2016-01-25 10:41:46
-tags:
-  - Oracle数据库
-  - 安装
-categories:
-  - Oracle数据库
----
++++
+title = "win7x64安装配置Oracle 11g R2数据库"
+date = "2016-01-25T10:41:46+08:00"
+tags = ["Oracle数据库", "安装"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 ## 安装前的准备
 

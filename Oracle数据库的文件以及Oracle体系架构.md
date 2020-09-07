@@ -1,14 +1,11 @@
----
-title: Oracle数据库的文件以及Oracle体系架构
-date: 2016-02-06 21:27:16
-tags:
-  - Oracle
-  - 体系架构
-  - CentOS
-  - 文件
-categories:
-  - Oracle数据库
----
++++
+title = "Oracle数据库的文件以及Oracle体系架构"
+date = "2016-02-06T21:27:16+08:00"
+tags = ["Oracle", "体系架构", "CentOS", "文件"]
+categories = ["Oracle数据库"]
+description = ""
++++
+
 
 ## 第一部分、Oracle数据库的文件
 

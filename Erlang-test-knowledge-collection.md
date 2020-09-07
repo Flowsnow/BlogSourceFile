@@ -1,14 +1,11 @@
----
-title: Erlang测试全集(挖坑)
-tags:
-  - Erlang
-  - 测试
-  - EUnit
-  - Common Test
-categories:
-  - Erlang
-date: 2018-01-29 18:31:37
----
++++
+title = "Erlang测试全集(挖坑)"
+tags = ["Erlang", "测试", "EUnit", "Common Test"]
+categories = ["Erlang"]
+date = "2018-01-29T18:31:37+08:00"
+description = ""
++++
+
 
 
 # Erlang测试全集(挖坑)

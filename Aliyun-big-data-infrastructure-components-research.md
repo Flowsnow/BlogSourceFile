@@ -1,12 +1,12 @@
----
-title: 阿里云大数据基础组件调研
-tags:
-  - Aliyun
-  - BigData
-categories:
-  - BigData
-date: 2019-07-30 14:34:32
----
++++
+title = "阿里云大数据基础组件调研"
+tags = ["Aliyun", "BigData"]
+categories = ["BigData"]
+date = "2019-07-30T14:34:32+08:00"
+description = ""
+
++++
+
 
 
 阿里云大数据基础组件调研

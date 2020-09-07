@@ -1,12 +1,11 @@
----
-title: 越南记忆
-tags:
-  - 越南
-  - 旅行
-categories:
-  - 灵魂独旅
-date: 2018-09-05 00:56:06
----
++++
+title = "越南记忆"
+tags = ["越南", "旅行"]
+categories = ["灵魂独旅"]
+date = "2018-09-05T00:56:06+08:00"
+description = ""
++++
+
 
 
 ![](https://flowsnow.oss-cn-shanghai.aliyuncs.com/image/tour/vietnam-2018/IMG_20180523_192308_017.jpg)
