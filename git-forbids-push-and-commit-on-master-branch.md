@@ -13,6 +13,7 @@ description = ""
 
 作为开发者，在本地的git hook中加配置可以做到在commit和push操作时做对应的检查
 
+<!--more-->
 
 
 ### 禁止在master分支上Commit
