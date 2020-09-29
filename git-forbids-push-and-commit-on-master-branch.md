@@ -179,3 +179,4 @@ git config --global core.hooksPath ~/.git-hooks	# 更改git配置指定hook目�
 
 2. https://www.geek-share.com/detail/2776108340.html
 
+我的博客即将同步至腾讯云+社区，邀请大家一同入驻：https://cloud.tencent.com/developer/support-plan?invite_code=38qhpnqeksg0g
