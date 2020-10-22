@@ -146,11 +146,12 @@ exit 0
 
 ```bash
 mkdir ~/.git-hooks	# 创建一个存放hook的自定义目录
-git config --global core.hooksPath ~/.git-hooks	# 更改git配置指定hook目录到自定义，先别着急执行，往后看
+git config --global core.hookspath ~/.git-hooks	# 更改git配置指定hook目录到自定义，先别着急执行，往后看
 ```
 
 这样就可以实现统一管理所有项目的hooks操作了
 
+> core.hookspath配置需要git版本在v2.9以上才行
 
 
 然后，你会觉得全局统一管理也太霸道了吧，比如说，公司的项目可以统一一套hooks操作，但是我不想把这一套hooks应用于个人github的项目啊。也就是说你需要在不同的目录下面执行不同的hooks操作，那么该怎么办呢？还是有办法：git配置是可以根据不同目录使用不同配置的
