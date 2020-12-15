@@ -1,8 +1,8 @@
 ---
 title: "坚持住啊，还在屎山中爬行的同事们"
 date: 2020-12-14T19:46:46+08:00
-tags = ["shit code", "规范性"]
-categories = ["软件工程实践"]
+tags: ["shit code", "规范性"]
+categories: ["软件工程实践"]
 ---
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things."
@@ -20,6 +20,8 @@ categories = ["软件工程实践"]
 所以我会经常去格式化他们的代码。如果不幸轮到你继续在屎代码上面开发，那就是屎上堆屎了。心疼你。
 
 当然有时候工期紧张，我自己也会写一些屎代码`shit code`，但是每次提交的时候都有一种强烈的愧疚感。希望这些代码最多存活一个月就消失，不要被人踩到了。
+
+<!--more-->
 
 ## 屎代码是怎么产生的？
 
